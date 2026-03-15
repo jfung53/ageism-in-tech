@@ -1,0 +1,204 @@
+"year","occupation","occ_level","occ_group","occ_subgroup","total_16plus","men_16plus","men_20plus","women_16plus","women_20plus"
+2019,"Management, professional, and related occupations",0,"management_professional",NA,64218,30950,30775,33267,33015
+2019,"Management, business, and financial operations occupations",1,"management_professional","management_business_financial",26981,15072,15030,11909,11870
+2019,"Management occupations",2,"management_professional","management_business_financial",18985,11394,11364,7591,7559
+2019,"Business and financial operations occupations",2,"management_professional","management_business_financial",7996,3678,3666,4318,4311
+2019,"Professional and related occupations",1,"management_professional","professional_related",37237,15879,15745,21358,21146
+2019,"Computer and mathematical occupations",2,"management_professional","professional_related",5352,3973,3956,1379,1370
+2019,"Architecture and engineering occupations",2,"management_professional","professional_related",3305,2785,2774,520,518
+2019,"Life, physical, and social science occupations",2,"management_professional","professional_related",1485,752,747,733,729
+2019,"Community and social service occupations",2,"management_professional","professional_related",2717,884,877,1833,1819
+2019,"Legal occupations",2,"management_professional","professional_related",1955,925,922,1030,1028
+2019,"Education, training, and library occupations",2,"management_professional","professional_related",9455,2500,2466,6955,6863
+2019,"Arts, design, entertainment, sports, and media occupations",2,"management_professional","professional_related",3285,1676,1627,1609,1557
+2019,"Healthcare practitioners and technical occupations",2,"management_professional","professional_related",9684,2384,2375,7300,7261
+2019,"Service occupations",0,"service",NA,26978,11445,10481,15534,14371
+2019,"Healthcare support occupations",1,"service",NA,3758,491,476,3267,3178
+2019,"Protective service occupations",1,"service",NA,3128,2437,2381,692,651
+2019,"Food preparation and serving related occupations",1,"service",NA,8378,3808,3164,4569,3835
+2019,"Building and grounds cleaning and maintenance occupations",1,"service",NA,5746,3332,3184,2413,2357
+2019,"Personal care and service occupations",1,"service",NA,5968,1376,1275,4592,4350
+2019,"Sales and office occupations",0,"sales_office",NA,33370,13148,12479,20222,19175
+2019,"Sales and related occupations",1,"sales_office",NA,15582,7979,7590,7602,6892
+2019,"Office and administrative support occupations",1,"sales_office",NA,17789,5169,4889,12620,12283
+2019,"Natural resources, construction, and maintenance occupations",0,"natural_resources_construction",NA,14343,13569,13258,774,749
+2019,"Farming, fishing, and forestry occupations",1,"natural_resources_construction",NA,1156,865,807,291,274
+2019,"Construction and extraction occupations",1,"natural_resources_construction",NA,8325,8033,7867,292,287
+2019,"Installation, maintenance, and repair occupations",1,"natural_resources_construction",NA,4862,4671,4584,191,188
+2019,"Production, transportation, and material moving occupations",0,"production_transportation",NA,18628,14348,13925,4281,4160
+2019,"Production occupations",1,"production_transportation",NA,8565,6115,5992,2450,2403
+2019,"Transportation and material moving occupations",1,"production_transportation",NA,10063,8233,7933,1831,1757
+2020,"Management, professional, and related occupations",0,"management_professional",NA,63644,30734,30577,32910,32684
+2020,"Management, business, and financial operations occupations",1,"management_professional","management_business_financial",27143,15028,14975,12114,12079
+2020,"Management occupations",2,"management_professional","management_business_financial",18564,11072,11032,7493,7473
+2020,"Business and financial operations occupations",2,"management_professional","management_business_financial",8578,3957,3943,4622,4606
+2020,"Professional and related occupations",1,"management_professional","professional_related",36502,15706,15602,20796,20605
+2020,"Computer and mathematical occupations",2,"management_professional","professional_related",5603,4193,4178,1410,1401
+2020,"Architecture and engineering occupations",2,"management_professional","professional_related",3169,2648,2635,522,520
+2020,"Life, physical, and social science occupations",2,"management_professional","professional_related",1627,824,823,803,798
+2020,"Community and social service occupations",2,"management_professional","professional_related",2717,847,840,1871,1862
+2020,"Legal occupations",2,"management_professional","professional_related",1882,905,905,977,975
+2020,"Education, training, and library occupations",2,"management_professional","professional_related",8902,2355,2330,6547,6461
+2020,"Arts, design, entertainment, sports, and media occupations",2,"management_professional","professional_related",3042,1482,1457,1560,1520
+2020,"Healthcare practitioners and technical occupations",2,"management_professional","professional_related",9559,2452,2433,7107,7068
+2020,"Service occupations",0,"service",NA,22853,9820,9017,13033,12023
+2020,"Healthcare support occupations",1,"service",NA,4790,703,683,4087,3983
+2020,"Protective service occupations",1,"service",NA,3024,2310,2273,714,671
+2020,"Food preparation and serving related occupations",1,"service",NA,6556,2989,2425,3566,2900
+2020,"Building and grounds cleaning and maintenance occupations",1,"service",NA,5084,3036,2908,2048,1998
+2020,"Personal care and service occupations",1,"service",NA,3399,781,728,2618,2470
+2020,"Sales and office occupations",0,"sales_office",NA,29726,11506,11008,18221,17292
+2020,"Sales and related occupations",1,"sales_office",NA,14168,7261,6925,6907,6245
+2020,"Office and administrative support occupations",1,"sales_office",NA,15558,4244,4083,11314,11047
+2020,"Natural resources, construction, and maintenance occupations",0,"natural_resources_construction",NA,13357,12607,12286,750,729
+2020,"Farming, fishing, and forestry occupations",1,"natural_resources_construction",NA,1045,793,726,252,240
+2020,"Construction and extraction occupations",1,"natural_resources_construction",NA,7710,7402,7233,308,302
+2020,"Installation, maintenance, and repair occupations",1,"natural_resources_construction",NA,4602,4411,4327,190,187
+2020,"Production, transportation, and material moving occupations",0,"production_transportation",NA,18215,13894,13339,4321,4145
+2020,"Production occupations",1,"production_transportation",NA,7590,5443,5331,2147,2102
+2020,"Transportation and material moving occupations",1,"production_transportation",NA,10625,8451,8008,2174,2042
+2021,"Management, professional, and related occupations",0,"management_professional",NA,64744,31109,30948,33636,33376
+2021,"Management, business, and financial operations occupations",1,"management_professional","management_business_financial",27864,15231,15188,12633,12576
+2021,"Management occupations",2,"management_professional","management_business_financial",18986,11218,11183,7768,7729
+2021,"Business and financial operations occupations",2,"management_professional","management_business_financial",8878,4013,4005,4865,4847
+2021,"Professional and related occupations",1,"management_professional","professional_related",36880,15878,15760,21003,20800
+2021,"Computer and mathematical occupations",2,"management_professional","professional_related",5688,4198,4177,1490,1483
+2021,"Architecture and engineering occupations",2,"management_professional","professional_related",3235,2671,2664,564,562
+2021,"Life, physical, and social science occupations",2,"management_professional","professional_related",1640,863,857,777,773
+2021,"Community and social service occupations",2,"management_professional","professional_related",2777,902,900,1876,1863
+2021,"Legal occupations",2,"management_professional","professional_related",1805,840,838,965,961
+2021,"Education, training, and library occupations",2,"management_professional","professional_related",8946,2351,2321,6595,6505
+2021,"Arts, design, entertainment, sports, and media occupations",2,"management_professional","professional_related",3151,1577,1540,1574,1528
+2021,"Healthcare practitioners and technical occupations",2,"management_professional","professional_related",9639,2477,2462,7162,7125
+2021,"Service occupations",0,"service",NA,24403,10328,9360,14075,12884
+2021,"Healthcare support occupations",1,"service",NA,4887,728,702,4158,4060
+2021,"Protective service occupations",1,"service",NA,2987,2276,2211,711,676
+2021,"Food preparation and serving related occupations",1,"service",NA,7370,3343,2662,4027,3204
+2021,"Building and grounds cleaning and maintenance occupations",1,"service",NA,5482,3198,3057,2285,2211
+2021,"Personal care and service occupations",1,"service",NA,3676,783,728,2893,2734
+2021,"Sales and office occupations",0,"sales_office",NA,30166,11604,11074,18563,17597
+2021,"Sales and related occupations",1,"sales_office",NA,14369,7219,6874,7150,6485
+2021,"Office and administrative support occupations",1,"sales_office",NA,15797,4384,4200,11413,11112
+2021,"Natural resources, construction, and maintenance occupations",0,"natural_resources_construction",NA,13959,13181,12837,778,755
+2021,"Farming, fishing, and forestry occupations",1,"natural_resources_construction",NA,1061,804,759,257,242
+2021,"Construction and extraction occupations",1,"natural_resources_construction",NA,8057,7746,7542,311,309
+2021,"Installation, maintenance, and repair occupations",1,"natural_resources_construction",NA,4840,4630,4536,210,204
+2021,"Production, transportation, and material moving occupations",0,"production_transportation",NA,19309,14608,13997,4700,4487
+2021,"Production occupations",1,"production_transportation",NA,7950,5703,5564,2247,2180
+2021,"Transportation and material moving occupations",1,"production_transportation",NA,11359,8906,8433,2453,2307
+2022,"Management, professional, and related occupations",0,"management_professional",NA,68099,33016,32814,35083,34787
+2022,"Management, business, and financial operations occupations",1,"management_professional","management_business_financial",29350,16188,16128,13162,13094
+2022,"Management occupations",2,"management_professional","management_business_financial",20199,12026,11986,8172,8127
+2022,"Business and financial operations occupations",2,"management_professional","management_business_financial",9152,4162,4142,4990,4966
+2022,"Professional and related occupations",1,"management_professional","professional_related",38749,16828,16687,21921,21693
+2022,"Computer and mathematical occupations",2,"management_professional","professional_related",6171,4521,4500,1650,1640
+2022,"Architecture and engineering occupations",2,"management_professional","professional_related",3464,2905,2891,559,555
+2022,"Life, physical, and social science occupations",2,"management_professional","professional_related",1840,953,945,887,882
+2022,"Community and social service occupations",2,"management_professional","professional_related",2945,967,957,1978,1968
+2022,"Legal occupations",2,"management_professional","professional_related",1861,882,881,979,978
+2022,"Education, training, and library occupations",2,"management_professional","professional_related",9220,2461,2437,6758,6655
+2022,"Arts, design, entertainment, sports, and media occupations",2,"management_professional","professional_related",3441,1761,1710,1680,1627
+2022,"Healthcare practitioners and technical occupations",2,"management_professional","professional_related",9808,2379,2366,7429,7389
+2022,"Service occupations",0,"service",NA,25438,10935,9899,14503,13227
+2022,"Healthcare support occupations",1,"service",NA,4930,757,740,4173,4080
+2022,"Protective service occupations",1,"service",NA,3057,2346,2283,711,659
+2022,"Food preparation and serving related occupations",1,"service",NA,7907,3690,2953,4218,3343
+2022,"Building and grounds cleaning and maintenance occupations",1,"service",NA,5576,3235,3110,2341,2281
+2022,"Personal care and service occupations",1,"service",NA,3968,907,812,3061,2865
+2022,"Sales and office occupations",0,"sales_office",NA,30412,11764,11176,18649,17654
+2022,"Sales and related occupations",1,"sales_office",NA,14316,7237,6847,7079,6392
+2022,"Office and administrative support occupations",1,"sales_office",NA,16096,4527,4329,11570,11263
+2022,"Natural resources, construction, and maintenance occupations",0,"natural_resources_construction",NA,14260,13442,13090,818,783
+2022,"Farming, fishing, and forestry occupations",1,"natural_resources_construction",NA,980,723,666,257,238
+2022,"Construction and extraction occupations",1,"natural_resources_construction",NA,8427,8070,7875,357,350
+2022,"Installation, maintenance, and repair occupations",1,"natural_resources_construction",NA,4853,4649,4548,204,195
+2022,"Production, transportation, and material moving occupations",0,"production_transportation",NA,20082,15046,14430,5036,4832
+2022,"Production occupations",1,"production_transportation",NA,8256,5797,5635,2459,2387
+2022,"Transportation and material moving occupations",1,"production_transportation",NA,11826,9249,8796,2578,2444
+2023,"Management, professional, and related occupations",0,"management_professional",NA,70275,33856,33663,36419,36123
+2023,"Management, business, and financial operations occupations",1,"management_professional","management_business_financial",30544,16574,16518,13971,13914
+2023,"Management occupations",2,"management_professional","management_business_financial",20906,12139,12104,8767,8729
+2023,"Business and financial operations occupations",2,"management_professional","management_business_financial",9638,4435,4414,5204,5185
+2023,"Professional and related occupations",1,"management_professional","professional_related",39731,17282,17145,22449,22209
+2023,"Computer and mathematical occupations",2,"management_professional","professional_related",6502,4754,4729,1748,1738
+2023,"Architecture and engineering occupations",2,"management_professional","professional_related",3602,3001,2987,602,597
+2023,"Life, physical, and social science occupations",2,"management_professional","professional_related",1870,939,934,932,927
+2023,"Community and social service occupations",2,"management_professional","professional_related",2879,874,863,2004,1990
+2023,"Legal occupations",2,"management_professional","professional_related",1897,910,909,988,986
+2023,"Education, training, and library occupations",2,"management_professional","professional_related",9403,2560,2528,6842,6732
+2023,"Arts, design, entertainment, sports, and media occupations",2,"management_professional","professional_related",3478,1808,1769,1670,1615
+2023,"Healthcare practitioners and technical occupations",2,"management_professional","professional_related",10099,2437,2426,7663,7625
+2023,"Service occupations",0,"service",NA,26171,11206,10134,14965,13640
+2023,"Healthcare support occupations",1,"service",NA,5123,806,783,4317,4204
+2023,"Protective service occupations",1,"service",NA,3105,2357,2306,748,697
+2023,"Food preparation and serving related occupations",1,"service",NA,8189,3775,3021,4414,3515
+2023,"Building and grounds cleaning and maintenance occupations",1,"service",NA,5534,3206,3063,2328,2269
+2023,"Personal care and service occupations",1,"service",NA,4220,1062,961,3158,2955
+2023,"Sales and office occupations",0,"sales_office",NA,30279,11942,11355,18337,17386
+2023,"Sales and related occupations",1,"sales_office",NA,14325,7352,6955,6972,6334
+2023,"Office and administrative support occupations",1,"sales_office",NA,15954,4590,4400,11364,11051
+2023,"Natural resources, construction, and maintenance occupations",0,"natural_resources_construction",NA,14326,13492,13111,834,785
+2023,"Farming, fishing, and forestry occupations",1,"natural_resources_construction",NA,987,720,658,267,242
+2023,"Construction and extraction occupations",1,"natural_resources_construction",NA,8457,8093,7881,364,350
+2023,"Installation, maintenance, and repair occupations",1,"natural_resources_construction",NA,4881,4679,4571,203,193
+2023,"Production, transportation, and material moving occupations",0,"production_transportation",NA,19986,15004,14435,4982,4758
+2023,"Production occupations",1,"production_transportation",NA,8280,5800,5675,2479,2405
+2023,"Transportation and material moving occupations",1,"production_transportation",NA,11706,9203,8760,2503,2353
+2024,"Management, professional, and related occupations",0,"management_professional",NA,70744,33716,33505,37028,36680
+2024,"Management, business, and financial operations occupations",1,"management_professional","management_business_financial",30602,16613,16546,13989,13922
+2024,"Management occupations",2,"management_professional","management_business_financial",20657,12017,11979,8640,8587
+2024,"Business and financial operations occupations",2,"management_professional","management_business_financial",9945,4596,4567,5349,5335
+2024,"Professional and related occupations",1,"management_professional","professional_related",40142,17103,16959,23039,22758
+2024,"Computer and mathematical occupations",2,"management_professional","professional_related",6386,4700,4686,1686,1673
+2024,"Architecture and engineering occupations",2,"management_professional","professional_related",3552,2940,2926,613,609
+2024,"Life, physical, and social science occupations",2,"management_professional","professional_related",1877,925,917,952,943
+2024,"Community and social service occupations",2,"management_professional","professional_related",2950,896,886,2054,2037
+2024,"Legal occupations",2,"management_professional","professional_related",1832,840,839,992,988
+2024,"Education, training, and library occupations",2,"management_professional","professional_related",9587,2551,2515,7036,6925
+2024,"Arts, design, entertainment, sports, and media occupations",2,"management_professional","professional_related",3483,1713,1670,1770,1698
+2024,"Healthcare practitioners and technical occupations",2,"management_professional","professional_related",10475,2539,2519,7936,7885
+2024,"Service occupations",0,"service",NA,26452,11246,10214,15206,13921
+2024,"Healthcare support occupations",1,"service",NA,5456,841,822,4615,4484
+2024,"Protective service occupations",1,"service",NA,3110,2327,2240,783,716
+2024,"Food preparation and serving related occupations",1,"service",NA,8061,3685,3012,4376,3550
+2024,"Building and grounds cleaning and maintenance occupations",1,"service",NA,5770,3422,3255,2347,2288
+2024,"Personal care and service occupations",1,"service",NA,4055,971,885,3084,2883
+2024,"Sales and office occupations",0,"sales_office",NA,29885,11825,11210,18061,17094
+2024,"Sales and related occupations",1,"sales_office",NA,14090,7337,6896,6754,6098
+2024,"Office and administrative support occupations",1,"sales_office",NA,15795,4488,4314,11307,10995
+2024,"Natural resources, construction, and maintenance occupations",0,"natural_resources_construction",NA,14391,13530,13138,861,813
+2024,"Farming, fishing, and forestry occupations",1,"natural_resources_construction",NA,970,701,647,269,241
+2024,"Construction and extraction occupations",1,"natural_resources_construction",NA,8520,8150,7935,370,358
+2024,"Installation, maintenance, and repair occupations",1,"natural_resources_construction",NA,4901,4680,4557,222,214
+2024,"Production, transportation, and material moving occupations",0,"production_transportation",NA,19873,14996,14448,4877,4663
+2024,"Production occupations",1,"production_transportation",NA,7944,5653,5518,2291,2228
+2024,"Transportation and material moving occupations",1,"production_transportation",NA,11930,9344,8930,2586,2434
+2025,"Management, professional, and related occupations",0,"management_professional",NA,71338,34097,33860,37241,36910
+2025,"Management, business, and financial operations occupations",1,"management_professional","management_business_financial",31049,16899,16824,14150,14079
+2025,"Management occupations",2,"management_professional","management_business_financial",20876,12141,12083,8735,8690
+2025,"Business and financial operations occupations",2,"management_professional","management_business_financial",10173,4758,4741,5415,5389
+2025,"Professional and related occupations",1,"management_professional","professional_related",40289,17199,17036,23090,22831
+2025,"Computer and mathematical occupations",2,"management_professional","professional_related",6711,4867,4854,1844,1839
+2025,"Architecture and engineering occupations",2,"management_professional","professional_related",3675,2965,2947,710,705
+2025,"Life, physical, and social science occupations",2,"management_professional","professional_related",1858,940,934,918,911
+2025,"Community and social service occupations",2,"management_professional","professional_related",2846,881,867,1964,1948
+2025,"Legal occupations",2,"management_professional","professional_related",1880,827,826,1053,1051
+2025,"Education, training, and library occupations",2,"management_professional","professional_related",9452,2418,2386,7034,6923
+2025,"Arts, design, entertainment, sports, and media occupations",2,"management_professional","professional_related",3504,1737,1678,1767,1705
+2025,"Healthcare practitioners and technical occupations",2,"management_professional","professional_related",10364,2563,2544,7801,7749
+2025,"Service occupations",0,"service",NA,27230,11499,10462,15732,14424
+2025,"Healthcare support occupations",1,"service",NA,5830,966,941,4865,4739
+2025,"Protective service occupations",1,"service",NA,3344,2566,2483,778,704
+2025,"Food preparation and serving related occupations",1,"service",NA,8292,3675,2979,4617,3800
+2025,"Building and grounds cleaning and maintenance occupations",1,"service",NA,5708,3351,3197,2357,2299
+2025,"Personal care and service occupations",1,"service",NA,4057,941,861,3116,2882
+2025,"Sales and office occupations",0,"sales_office",NA,30604,12306,11712,18298,17379
+2025,"Sales and related occupations",1,"sales_office",NA,14159,7453,7042,6706,6105
+2025,"Office and administrative support occupations",1,"sales_office",NA,16444,4853,4671,11591,11274
+2025,"Natural resources, construction, and maintenance occupations",0,"natural_resources_construction",NA,14550,13682,13343,868,822
+2025,"Farming, fishing, and forestry occupations",1,"natural_resources_construction",NA,1000,732,681,268,240
+2025,"Construction and extraction occupations",1,"natural_resources_construction",NA,8490,8126,7936,364,355
+2025,"Installation, maintenance, and repair occupations",1,"natural_resources_construction",NA,5060,4824,4727,237,227
+2025,"Production, transportation, and material moving occupations",0,"production_transportation",NA,19770,14978,14429,4792,4601
+2025,"Production occupations",1,"production_transportation",NA,7889,5648,5534,2241,2180
+2025,"Transportation and material moving occupations",1,"production_transportation",NA,11881,9330,8895,2551,2421

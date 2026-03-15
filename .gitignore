@@ -1,3 +1,19 @@
+# macOS
+.DS_Store
+
+# notes
+bls-cleaned/table09_notes.txt
+
+# decide on table 37 later
+bls-cleaned/table37_all_years.csv
+bls-cleaning-scripts/table-37.R
+bls-data/37-weekly-earnings/*
+
+# claude files
+CLAUDE.md
+
+## R .gitignore boilerplate
+
 # History files
 .Rhistory
 .Rapp.history

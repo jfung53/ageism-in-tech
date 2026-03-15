@@ -1,0 +1,752 @@
+"year","soc_system","occupation","occ_category","occ_group","occ_level","soc_note","total_16plus","age_16to19","age_20to24","age_25to34","age_35to44","age_45to54","age_55to64","age_65plus","median_age"
+2019,"2010_SOC","Computer and information systems managers","it","it_management","occupation",NA,654,1,6,115,197,198,116,23,45.3
+2019,"2010_SOC","Architectural and engineering managers","engineering","arch_engineering","occupation",NA,154,0,1,21,41,45,41,5,47.9
+2019,"2010_SOC","Natural sciences managers","life_science","life_science","occupation",NA,15,0,0,1,3,8,0,1,NA
+2019,"2010_SOC","Computer and mathematical occupations","it","computer","group",NA,5352,26,354,1593,1414,1092,700,173,40.5
+2019,"2010_SOC","Computer and information research scientists","it","computer","occupation",NA,24,0,4,6,7,4,1,1,NA
+2019,"2010_SOC","Computer systems analysts","it","computer","occupation",NA,663,1,59,191,181,121,94,16,39.9
+2019,"2010_SOC","Information security analysts","it","computer","occupation",NA,125,1,12,46,31,18,15,2,38.1
+2019,"2010_SOC","Computer programmers","it","computer","occupation",NA,454,2,19,117,105,116,72,24,43.5
+2019,"2010_SOC","Software developers, applications and systems software","it","computer","occupation","2019 only; split into two titles in 2020+",1815,2,111,640,496,313,195,56,39.2
+2019,"2010_SOC","Web developers","it","computer","occupation",NA,193,4,15,56,60,36,16,7,38.9
+2019,"2010_SOC","Computer support specialists","it","computer","occupation",NA,547,5,36,158,145,119,68,15,40.6
+2019,"2010_SOC","Database administrators","it","computer","occupation","2019 only; renamed in 2020+",106,0,5,21,29,27,18,7,44.5
+2019,"2010_SOC","Network and computer systems administrators","it","computer","occupation",NA,199,0,8,48,65,50,25,4,42
+2019,"2010_SOC","Computer network architects","it","computer","occupation",NA,106,0,1,15,32,37,19,3,45.4
+2019,"2010_SOC","Computer occupations, all other","it","computer","occupation",NA,808,11,61,205,190,188,121,33,41.4
+2019,"2010_SOC","Operations research analysts","it","data_science","occupation",NA,152,0,8,42,34,35,30,4,43.3
+2019,"2010_SOC","Statisticians","it","data_science","occupation",NA,101,0,9,35,26,14,15,2,38.9
+2019,"2010_SOC","Architecture and engineering occupations","engineering","arch_engineering","group",NA,3305,13,209,871,718,659,663,173,43.3
+2019,"2010_SOC","Architects, except naval","engineering","arch_engineering","occupation","2019 only; renamed in 2020+",208,0,3,42,53,43,46,21,46.2
+2019,"2010_SOC","Surveyors, cartographers, and photogrammetrists","engineering","arch_engineering","occupation",NA,48,0,1,9,9,10,13,5,NA
+2019,"2010_SOC","Aerospace engineers","engineering","arch_engineering","occupation",NA,134,0,4,36,23,22,39,10,48.1
+2019,"2010_SOC","Agricultural engineers","engineering","arch_engineering","occupation",NA,6,0,0,3,0,0,2,0,NA
+2019,"2010_SOC","Biomedical engineers","engineering","arch_engineering","occupation","2019 only; renamed in 2020+",25,0,4,8,6,1,5,1,NA
+2019,"2010_SOC","Chemical engineers","engineering","arch_engineering","occupation",NA,87,0,6,28,14,17,15,6,42.8
+2019,"2010_SOC","Civil engineers","engineering","arch_engineering","occupation",NA,475,0,37,134,109,75,90,29,41.5
+2019,"2010_SOC","Computer hardware engineers","engineering","arch_engineering","occupation",NA,77,0,12,17,22,11,13,1,39.9
+2019,"2010_SOC","Electrical and electronics engineers","engineering","arch_engineering","occupation",NA,285,0,13,70,69,54,61,18,44.2
+2019,"2010_SOC","Environmental engineers","engineering","arch_engineering","occupation",NA,25,0,0,8,5,6,3,2,NA
+2019,"2010_SOC","Industrial engineers, including health and safety","engineering","arch_engineering","occupation",NA,245,1,11,64,56,53,49,11,43.4
+2019,"2010_SOC","Marine engineers and naval architects","engineering","arch_engineering","occupation",NA,12,0,0,4,3,3,2,0,NA
+2019,"2010_SOC","Materials engineers","engineering","arch_engineering","occupation",NA,44,0,1,16,7,10,8,3,NA
+2019,"2010_SOC","Mechanical engineers","engineering","arch_engineering","occupation",NA,351,4,22,113,74,73,54,12,40.8
+2019,"2010_SOC","Mining and geological engineers, including mining safety engineers","engineering","arch_engineering","occupation",NA,8,0,0,2,1,2,3,0,NA
+2019,"2010_SOC","Nuclear engineers","engineering","arch_engineering","occupation",NA,8,0,0,3,1,1,2,2,NA
+2019,"2010_SOC","Petroleum engineers","engineering","arch_engineering","occupation",NA,24,0,1,7,9,4,2,1,NA
+2019,"2010_SOC","Engineers, all other","engineering","arch_engineering","occupation",NA,582,1,32,150,128,118,125,27,43.6
+2019,"2010_SOC","Drafters","engineering","arch_engineering","occupation","2019 only; split into two titles in 2020+",113,0,12,23,24,32,17,4,44
+2019,"2010_SOC","Engineering technicians, except drafters","engineering","eng_technician","occupation","2019 only; split into two titles in 2020+",496,5,41,120,97,111,106,15,43.7
+2019,"2010_SOC","Surveying and mapping technicians","engineering","eng_technician","occupation",NA,53,1,7,13,6,13,8,5,44.6
+2019,"2010_SOC","Life, physical, and social science occupations","life_science","life_science","group",NA,1485,9,137,427,320,262,231,99,41
+2019,"2010_SOC","Agricultural and food scientists","life_science","life_science","occupation",NA,37,0,8,13,6,5,6,1,NA
+2019,"2010_SOC","Biological scientists","life_science","life_science","occupation",NA,104,0,8,32,23,23,12,7,41.2
+2019,"2010_SOC","Conservation scientists and foresters","life_science","life_science","occupation",NA,20,0,1,3,8,3,4,1,NA
+2019,"2010_SOC","Medical scientists","life_science","life_science","occupation",NA,170,0,12,59,43,24,25,7,38.8
+2019,"2010_SOC","Life scientists, all other","life_science","life_science","occupation",NA,2,0,1,1,0,1,0,0,NA
+2019,"2010_SOC","Astronomers and physicists","life_science","physical_science","occupation",NA,17,0,0,4,4,3,6,1,NA
+2019,"2010_SOC","Atmospheric and space scientists","life_science","physical_science","occupation",NA,10,0,0,2,2,2,4,0,NA
+2019,"2010_SOC","Chemists and materials scientists","life_science","physical_science","occupation",NA,97,0,7,35,16,16,17,5,40.9
+2019,"2010_SOC","Environmental scientists and geoscientists","life_science","physical_science","occupation","2019 only; split into two titles in 2020+",119,1,10,32,31,18,18,10,41.1
+2019,"2010_SOC","Physical scientists, all other","life_science","physical_science","occupation",NA,298,0,23,99,71,50,45,10,39.6
+2019,"2010_SOC","Agricultural and food science technicians","life_science","science_technician","occupation",NA,20,0,5,4,1,3,4,3,NA
+2019,"2010_SOC","Biological technicians","life_science","science_technician","occupation",NA,23,0,3,8,6,3,4,0,NA
+2019,"2010_SOC","Chemical technicians","life_science","science_technician","occupation",NA,56,1,3,17,15,11,9,1,40
+2019,"2010_SOC","Geological and petroleum technicians","life_science","science_technician","occupation","2019 only; absorbed into env. science technicians in 2020+",20,0,1,3,6,8,0,1,NA
+2019,"2010_SOC","Nuclear technicians","life_science","science_technician","occupation",NA,3,0,0,0,0,1,1,0,NA
+2019,"2010_SOC","Miscellaneous life, physical, and social science technicians","life_science","science_technician","occupation","2019 only; renamed in 2020+",152,6,44,45,16,13,22,6,30.6
+2019,"2010_SOC","Technical writers","it","technical_writer","occupation",NA,61,0,2,16,10,14,13,7,45.7
+2019,"2010_SOC","Healthcare practitioners and technical occupations","healthcare","health_practitioner","group",NA,9684,48,532,2586,2373,1990,1576,579,42.3
+2019,"2010_SOC","Chiropractors","healthcare","health_practitioner","occupation",NA,61,0,1,11,17,15,14,4,45.2
+2019,"2010_SOC","Dentists","healthcare","health_practitioner","occupation",NA,162,0,0,32,35,41,30,23,48.2
+2019,"2010_SOC","Dietitians and nutritionists","healthcare","health_practitioner","occupation",NA,128,3,4,33,20,34,23,11,45.3
+2019,"2010_SOC","Optometrists","healthcare","health_practitioner","occupation",NA,43,0,1,16,10,8,4,5,NA
+2019,"2010_SOC","Pharmacists","healthcare","health_practitioner","occupation",NA,341,0,11,109,90,69,43,19,41.1
+2019,"2010_SOC","Physicians and surgeons","healthcare","health_practitioner","occupation","2019 only; split into separate titles in 2020+",1098,0,5,250,272,250,194,127,45.7
+2019,"2010_SOC","Physician assistants","healthcare","health_practitioner","occupation",NA,131,0,2,56,35,27,9,2,38
+2019,"2010_SOC","Podiatrists","healthcare","health_practitioner","occupation",NA,10,0,0,4,0,3,3,0,NA
+2019,"2010_SOC","Audiologists","healthcare","health_practitioner","occupation",NA,14,0,0,2,5,2,4,0,NA
+2019,"2010_SOC","Occupational therapists","healthcare","health_practitioner","occupation",NA,136,0,2,42,42,33,13,3,40.2
+2019,"2010_SOC","Physical therapists","healthcare","health_practitioner","occupation",NA,304,0,5,84,95,74,37,10,41.6
+2019,"2010_SOC","Radiation therapists","healthcare","health_practitioner","occupation",NA,16,0,2,8,2,3,0,1,NA
+2019,"2010_SOC","Recreational therapists","healthcare","health_practitioner","occupation",NA,10,0,2,2,1,2,2,1,NA
+2019,"2010_SOC","Respiratory therapists","healthcare","health_practitioner","occupation",NA,112,0,2,27,32,28,21,3,44.5
+2019,"2010_SOC","Speech-language pathologists","healthcare","health_practitioner","occupation",NA,180,0,9,58,49,33,22,8,40.5
+2019,"2010_SOC","Exercise physiologists","healthcare","health_practitioner","occupation","2020+ only",2,0,0,1,0,0,0,0,NA
+2019,"2010_SOC","Therapists, all other","healthcare","health_practitioner","occupation",NA,235,2,14,77,44,40,36,22,40.8
+2019,"2010_SOC","Veterinarians","healthcare","health_practitioner","occupation",NA,104,0,1,21,33,21,21,7,44.9
+2019,"2010_SOC","Registered nurses","healthcare","health_practitioner","occupation",NA,3242,2,138,860,803,684,586,168,43
+2019,"2010_SOC","Nurse anesthetists","healthcare","health_practitioner","occupation",NA,33,0,0,8,10,8,4,3,NA
+2019,"2010_SOC","Nurse midwives","healthcare","health_practitioner","occupation",NA,10,0,0,1,4,2,1,2,NA
+2019,"2010_SOC","Nurse practitioners","healthcare","health_practitioner","occupation",NA,225,0,0,51,71,50,38,16,44.3
+2019,"2010_SOC","Health diagnosing and treating practitioners, all other","healthcare","health_practitioner","occupation","2019 only; renamed in 2020+",35,0,0,8,8,7,5,7,NA
+2019,"2010_SOC","Clinical laboratory technologists and technicians","healthcare","health_technician","occupation",NA,323,4,29,75,77,64,58,16,42.4
+2019,"2010_SOC","Dental hygienists","healthcare","health_technician","occupation",NA,208,0,10,67,39,44,41,7,42.3
+2019,"2010_SOC","Diagnostic related technologists and technicians","healthcare","health_technician","occupation","2019 only; split into separate titles in 2020+",398,1,15,103,109,83,70,17,42.6
+2019,"2010_SOC","Emergency medical technicians and paramedics","healthcare","health_technician","occupation","2019 only; split into separate titles in 2020+",206,1,33,81,44,27,14,5,33
+2019,"2010_SOC","Health practitioner support technologists and technicians","healthcare","health_technician","occupation","2019 only; absorbed into misc. health technicians in 2020+",710,19,131,234,138,92,78,18,33.2
+2019,"2010_SOC","Licensed practical and licensed vocational nurses","healthcare","health_technician","occupation",NA,687,10,62,150,161,144,117,43,42.6
+2019,"2010_SOC","Medical records and health information technicians","healthcare","health_technician","occupation","2019 only; renamed in 2020+",185,2,9,32,49,42,40,11,45
+2019,"2010_SOC","Opticians, dispensing","healthcare","health_technician","occupation",NA,49,0,0,7,8,11,15,7,NA
+2019,"2010_SOC","Miscellaneous health technologists and technicians","healthcare","health_technician","occupation",NA,152,3,30,38,33,22,19,7,37.4
+2019,"2010_SOC","Other healthcare practitioners and technical occupations","healthcare","health_technician","occupation",NA,133,0,12,36,36,26,18,6,39.8
+2020,"2018_SOC","Computer and information systems managers","it","it_management","occupation",NA,744,0,7,128,222,226,138,23,45.4
+2020,"2018_SOC","Architectural and engineering managers","engineering","arch_engineering","occupation",NA,171,0,2,19,45,43,51,10,49.1
+2020,"2018_SOC","Natural sciences managers","life_science","life_science","occupation",NA,16,0,0,4,1,6,2,2,NA
+2020,"2018_SOC","Computer and mathematical occupations","it","computer","group",NA,5603,23,335,1692,1515,1095,785,157,40.6
+2020,"2018_SOC","Computer and information research scientists","it","computer","occupation",NA,42,0,3,14,9,9,5,2,NA
+2020,"2018_SOC","Computer systems analysts","it","computer","occupation",NA,594,2,41,174,141,120,97,19,40.9
+2020,"2018_SOC","Information security analysts","it","computer","occupation",NA,137,0,8,38,39,26,19,6,41.2
+2020,"2018_SOC","Computer programmers","it","computer","occupation",NA,417,3,19,102,109,81,89,15,43.1
+2020,"2018_SOC","Software developers","it","computer","occupation","2020+ only; see 2019 note",1883,4,109,675,529,303,220,43,39.1
+2020,"2018_SOC","Software quality assurance analysts and testers","it","computer","occupation","2020+ only; see 2019 note",82,1,6,19,24,18,11,3,42
+2020,"2018_SOC","Web developers","it","computer","occupation",NA,104,1,10,38,32,16,6,2,37.2
+2020,"2018_SOC","Web and digital interface designers","it","computer","occupation","2020+ only",70,0,7,29,17,10,5,1,36.2
+2020,"2018_SOC","Computer support specialists","it","computer","occupation",NA,660,9,40,190,172,134,95,19,40.7
+2020,"2018_SOC","Database administrators and architects","it","computer","occupation","2020+ only; see 2019 note",121,0,7,33,24,36,15,6,42.3
+2020,"2018_SOC","Network and computer systems administrators","it","computer","occupation",NA,238,0,7,54,74,62,30,11,42.8
+2020,"2018_SOC","Computer network architects","it","computer","occupation",NA,107,0,1,20,34,38,13,2,43.8
+2020,"2018_SOC","Computer occupations, all other","it","computer","occupation",NA,792,3,51,199,233,169,117,20,41.5
+2020,"2018_SOC","Operations research analysts","it","data_science","occupation",NA,156,0,8,35,32,37,38,4,44.9
+2020,"2018_SOC","Statisticians","it","data_science","occupation",NA,61,0,4,15,15,17,7,2,42.3
+2020,"2018_SOC","Architecture and engineering occupations","engineering","arch_engineering","group",NA,3169,15,208,860,682,611,612,182,42.9
+2020,"2018_SOC","Architects, except landscape and naval","engineering","arch_engineering","occupation","2020+ only; see 2019 note",190,0,4,50,48,34,35,19,43.9
+2020,"2018_SOC","Landscape architects","engineering","arch_engineering","occupation",NA,27,0,1,1,6,8,7,3,NA
+2020,"2018_SOC","Surveyors, cartographers, and photogrammetrists","engineering","arch_engineering","occupation",NA,45,1,4,10,9,8,7,4,NA
+2020,"2018_SOC","Aerospace engineers","engineering","arch_engineering","occupation",NA,129,0,5,38,26,20,36,4,44.1
+2020,"2018_SOC","Agricultural engineers","engineering","arch_engineering","occupation",NA,7,0,2,4,1,0,0,0,NA
+2020,"2018_SOC","Bioengineers and biomedical engineers","engineering","arch_engineering","occupation","2020+ only; see 2019 note",22,0,1,12,3,3,3,0,NA
+2020,"2018_SOC","Chemical engineers","engineering","arch_engineering","occupation",NA,70,0,5,25,14,12,10,3,39.2
+2020,"2018_SOC","Civil engineers","engineering","arch_engineering","occupation",NA,422,1,31,122,89,74,85,21,41.9
+2020,"2018_SOC","Computer hardware engineers","engineering","arch_engineering","occupation",NA,89,0,3,27,25,12,19,3,42.7
+2020,"2018_SOC","Electrical and electronics engineers","engineering","arch_engineering","occupation",NA,268,2,9,67,57,52,61,19,45.2
+2020,"2018_SOC","Environmental engineers","engineering","arch_engineering","occupation",NA,33,0,3,6,12,5,3,2,NA
+2020,"2018_SOC","Industrial engineers, including health and safety","engineering","arch_engineering","occupation",NA,225,0,9,76,36,49,43,11,43
+2020,"2018_SOC","Marine engineers and naval architects","engineering","arch_engineering","occupation",NA,16,0,0,7,3,4,2,0,NA
+2020,"2018_SOC","Materials engineers","engineering","arch_engineering","occupation",NA,53,0,3,23,8,11,8,1,41.1
+2020,"2018_SOC","Mechanical engineers","engineering","arch_engineering","occupation",NA,357,3,39,98,83,64,53,17,40.3
+2020,"2018_SOC","Mining and geological engineers, including mining safety engineers","engineering","arch_engineering","occupation",NA,17,0,3,3,3,5,1,1,NA
+2020,"2018_SOC","Nuclear engineers","engineering","arch_engineering","occupation",NA,10,0,0,5,2,0,2,0,NA
+2020,"2018_SOC","Petroleum engineers","engineering","arch_engineering","occupation",NA,15,0,0,4,6,3,1,1,NA
+2020,"2018_SOC","Engineers, all other","engineering","arch_engineering","occupation",NA,560,0,31,144,134,103,119,28,43.5
+2020,"2018_SOC","Architectural and civil drafters","engineering","arch_engineering","occupation","2020+ only; see 2019 note",38,1,4,8,11,2,10,2,NA
+2020,"2018_SOC","Other drafters","engineering","arch_engineering","occupation","2020+ only; see 2019 note",95,1,5,24,24,16,18,6,42.6
+2020,"2018_SOC","Electrical and electronic engineering technologists and technicians","engineering","eng_technician","occupation","2020+ only; see 2019 note",82,1,6,15,14,19,14,14,46.3
+2020,"2018_SOC","Other engineering technologists and technicians, except drafters","engineering","eng_technician","occupation","2020+ only; see 2019 note",344,3,29,82,62,89,64,15,43.6
+2020,"2018_SOC","Surveying and mapping technicians","engineering","eng_technician","occupation",NA,56,1,8,11,5,16,9,6,48.3
+2020,"2018_SOC","Life, physical, and social science occupations","life_science","life_science","group",NA,1627,7,143,472,385,298,227,95,40.5
+2020,"2018_SOC","Agricultural and food scientists","life_science","life_science","occupation",NA,32,0,0,9,7,5,9,2,NA
+2020,"2018_SOC","Biological scientists","life_science","life_science","occupation",NA,84,0,4,30,16,19,10,5,41.6
+2020,"2018_SOC","Conservation scientists and foresters","life_science","life_science","occupation",NA,19,0,1,4,4,2,5,2,NA
+2020,"2018_SOC","Medical scientists","life_science","life_science","occupation",NA,112,0,1,34,28,29,15,6,42.4
+2020,"2018_SOC","Life scientists, all other","life_science","life_science","occupation",NA,6,0,1,4,1,0,0,0,NA
+2020,"2018_SOC","Astronomers and physicists","life_science","physical_science","occupation",NA,19,0,4,4,1,1,8,1,NA
+2020,"2018_SOC","Atmospheric and space scientists","life_science","physical_science","occupation",NA,10,0,0,2,4,2,1,1,NA
+2020,"2018_SOC","Chemists and materials scientists","life_science","physical_science","occupation",NA,80,0,3,33,20,10,10,3,38.6
+2020,"2018_SOC","Environmental scientists and specialists, including health","life_science","physical_science","occupation","2020+ only; see 2019 note",46,0,5,17,7,10,5,3,NA
+2020,"2018_SOC","Geoscientists and hydrologists, except geographers","life_science","physical_science","occupation","2020+ only; see 2019 note",37,0,1,9,15,4,6,2,NA
+2020,"2018_SOC","Physical scientists, all other","life_science","physical_science","occupation",NA,336,0,28,103,104,54,36,12,39.4
+2020,"2018_SOC","Agricultural and food science technicians","life_science","science_technician","occupation",NA,41,0,6,11,6,10,6,1,NA
+2020,"2018_SOC","Biological technicians","life_science","science_technician","occupation",NA,24,1,6,6,4,4,4,0,NA
+2020,"2018_SOC","Chemical technicians","life_science","science_technician","occupation",NA,68,1,6,24,13,12,9,3,37.6
+2020,"2018_SOC","Environmental science and geoscience technicians","life_science","science_technician","occupation","2020+ only; see 2019 note",21,0,1,5,7,4,2,1,NA
+2020,"2018_SOC","Nuclear technicians","life_science","science_technician","occupation",NA,7,0,1,0,3,1,1,1,NA
+2020,"2018_SOC","Other life, physical, and social science technicians","life_science","science_technician","occupation","2020+ only; see 2019 note",258,3,54,83,46,31,33,8,33.9
+2020,"2018_SOC","Technical writers","it","technical_writer","occupation",NA,65,0,4,13,12,14,19,3,46.3
+2020,"2018_SOC","Healthcare practitioners and technical occupations","healthcare","health_practitioner","group",NA,9559,57,493,2574,2387,1956,1544,547,42.4
+2020,"2018_SOC","Chiropractors","healthcare","health_practitioner","occupation",NA,66,0,0,14,14,16,15,7,49.1
+2020,"2018_SOC","Dentists","healthcare","health_practitioner","occupation",NA,173,0,1,28,42,38,42,22,48.4
+2020,"2018_SOC","Dietitians and nutritionists","healthcare","health_practitioner","occupation",NA,106,0,6,31,18,22,19,9,43.8
+2020,"2018_SOC","Optometrists","healthcare","health_practitioner","occupation",NA,42,0,0,12,13,8,5,5,NA
+2020,"2018_SOC","Pharmacists","healthcare","health_practitioner","occupation",NA,327,2,7,98,98,70,39,12,41.7
+2020,"2018_SOC","Emergency medicine physicians","healthcare","health_practitioner","occupation","2020+ only",17,0,0,2,7,5,1,2,NA
+2020,"2018_SOC","Radiologists","healthcare","health_practitioner","occupation","2020+ only",25,0,0,2,4,13,4,1,NA
+2020,"2018_SOC","Other physicians","healthcare","health_practitioner","occupation","2020+ only",929,0,4,238,216,207,158,107,45.5
+2020,"2018_SOC","Surgeons","healthcare","health_practitioner","occupation","2020+ only",54,0,0,10,19,8,12,5,46.2
+2020,"2018_SOC","Physician assistants","healthcare","health_practitioner","occupation",NA,141,0,1,60,39,25,13,3,39
+2020,"2018_SOC","Podiatrists","healthcare","health_practitioner","occupation",NA,12,0,0,2,1,0,8,1,NA
+2020,"2018_SOC","Audiologists","healthcare","health_practitioner","occupation",NA,20,0,0,4,4,7,4,0,NA
+2020,"2018_SOC","Occupational therapists","healthcare","health_practitioner","occupation",NA,124,0,1,39,40,23,14,8,41.5
+2020,"2018_SOC","Physical therapists","healthcare","health_practitioner","occupation",NA,281,0,3,87,69,71,37,13,41.7
+2020,"2018_SOC","Radiation therapists","healthcare","health_practitioner","occupation",NA,10,0,0,5,2,2,1,0,NA
+2020,"2018_SOC","Recreational therapists","healthcare","health_practitioner","occupation",NA,21,0,3,8,2,3,4,1,NA
+2020,"2018_SOC","Respiratory therapists","healthcare","health_practitioner","occupation",NA,122,0,7,18,37,35,22,2,44.3
+2020,"2018_SOC","Speech-language pathologists","healthcare","health_practitioner","occupation",NA,195,0,11,66,47,36,28,7,40.1
+2020,"2018_SOC","Exercise physiologists","healthcare","health_practitioner","occupation","2020+ only",6,0,2,5,0,0,0,0,NA
+2020,"2018_SOC","Therapists, all other","healthcare","health_practitioner","occupation",NA,233,1,11,87,49,35,28,23,39.6
+2020,"2018_SOC","Veterinarians","healthcare","health_practitioner","occupation",NA,83,0,0,19,23,18,16,7,45.1
+2020,"2018_SOC","Registered nurses","healthcare","health_practitioner","occupation",NA,3256,3,157,869,835,686,555,151,42.6
+2020,"2018_SOC","Nurse anesthetists","healthcare","health_practitioner","occupation",NA,42,0,0,11,12,11,6,3,NA
+2020,"2018_SOC","Nurse midwives","healthcare","health_practitioner","occupation",NA,5,0,0,1,1,2,2,0,NA
+2020,"2018_SOC","Nurse practitioners","healthcare","health_practitioner","occupation",NA,218,0,1,42,85,51,31,9,43.4
+2020,"2018_SOC","Acupuncturists","healthcare","health_practitioner","occupation","2020+ only",23,0,0,1,4,5,5,7,NA
+2020,"2018_SOC","Healthcare diagnosing or treating practitioners, all other","healthcare","health_practitioner","occupation","2020+ only; see 2019 note",15,0,0,2,2,5,0,5,NA
+2020,"2018_SOC","Clinical laboratory technologists and technicians","healthcare","health_technician","occupation",NA,331,9,33,85,79,60,50,16,40.3
+2020,"2018_SOC","Dental hygienists","healthcare","health_technician","occupation",NA,190,1,8,54,37,47,33,9,43
+2020,"2018_SOC","Cardiovascular technologists and technicians","healthcare","health_technician","occupation","2020+ only",50,0,2,9,14,11,11,2,44.5
+2020,"2018_SOC","Diagnostic medical sonographers","healthcare","health_technician","occupation","2020+ only",90,0,2,23,28,22,13,3,42.6
+2020,"2018_SOC","Radiologic technologists and technicians","healthcare","health_technician","occupation","2020+ only",254,0,14,58,76,56,44,6,43
+2020,"2018_SOC","Magnetic resonance imaging technologists","healthcare","health_technician","occupation","2020+ only",57,0,1,11,16,13,13,4,45.8
+2020,"2018_SOC","Nuclear medicine technologists and medical dosimetrists","healthcare","health_technician","occupation","2020+ only",35,0,0,8,8,6,12,1,NA
+2020,"2018_SOC","Emergency medical technicians","healthcare","health_technician","occupation","2020+ only",141,3,35,52,19,17,10,5,30.2
+2020,"2018_SOC","Paramedics","healthcare","health_technician","occupation","2020+ only",78,0,7,29,17,13,10,2,37.8
+2020,"2018_SOC","Pharmacy technicians","healthcare","health_technician","occupation",NA,336,13,51,117,72,36,40,8,34.2
+2020,"2018_SOC","Psychiatric technicians","healthcare","health_technician","occupation",NA,67,0,11,29,14,6,5,2,31
+2020,"2018_SOC","Surgical technologists","healthcare","health_technician","occupation",NA,108,0,9,32,23,24,15,5,39.5
+2020,"2018_SOC","Veterinary technologists and technicians","healthcare","health_technician","occupation",NA,105,5,28,40,17,7,6,3,30.3
+2020,"2018_SOC","Dietetic technicians and ophthalmic medical technicians","healthcare","health_technician","occupation","2020+ only",66,10,9,9,9,13,12,4,40.8
+2020,"2018_SOC","Licensed practical and licensed vocational nurses","healthcare","health_technician","occupation",NA,596,6,38,144,142,117,114,35,43.4
+2020,"2018_SOC","Medical records specialists","healthcare","health_technician","occupation","2020+ only",183,0,7,26,50,42,44,14,47.1
+2020,"2018_SOC","Opticians, dispensing","healthcare","health_technician","occupation",NA,40,0,2,12,9,6,5,6,NA
+2020,"2018_SOC","Miscellaneous health technologists and technicians","healthcare","health_technician","occupation",NA,185,5,20,42,43,44,25,7,40.1
+2020,"2018_SOC","Other healthcare practitioners and technical occupations","healthcare","health_technician","occupation",NA,100,0,4,31,29,14,15,7,41.2
+2021,"2018_SOC","Computer and information systems managers","it","it_management","occupation",NA,715,2,9,113,209,212,149,21,45.7
+2021,"2018_SOC","Architectural and engineering managers","engineering","arch_engineering","occupation",NA,178,0,2,23,55,53,38,6,46.4
+2021,"2018_SOC","Natural sciences managers","life_science","life_science","occupation",NA,21,0,0,3,7,6,4,0,NA
+2021,"2018_SOC","Computer and mathematical occupations","it","computer","group",NA,5688,28,347,1693,1489,1135,815,181,40.7
+2021,"2018_SOC","Computer and information research scientists","it","computer","occupation",NA,41,0,2,20,9,4,4,1,NA
+2021,"2018_SOC","Computer systems analysts","it","computer","occupation",NA,464,2,17,125,127,92,83,18,42.3
+2021,"2018_SOC","Information security analysts","it","computer","occupation",NA,152,2,9,30,45,33,21,13,42.9
+2021,"2018_SOC","Computer programmers","it","computer","occupation",NA,444,5,19,108,115,95,82,20,43.4
+2021,"2018_SOC","Software developers","it","computer","occupation","2020+ only; see 2019 note",1932,4,122,700,523,338,205,40,38.6
+2021,"2018_SOC","Software quality assurance analysts and testers","it","computer","occupation","2020+ only; see 2019 note",74,0,2,15,27,15,10,5,42.7
+2021,"2018_SOC","Web developers","it","computer","occupation",NA,81,1,3,36,22,9,8,1,38.5
+2021,"2018_SOC","Web and digital interface designers","it","computer","occupation","2020+ only",64,1,8,19,20,9,3,4,37.1
+2021,"2018_SOC","Computer support specialists","it","computer","occupation",NA,660,6,62,180,139,140,110,23,41.1
+2021,"2018_SOC","Database administrators and architects","it","computer","occupation","2020+ only; see 2019 note",111,0,1,31,19,32,27,1,45.7
+2021,"2018_SOC","Network and computer systems administrators","it","computer","occupation",NA,212,1,5,49,57,54,38,8,44.1
+2021,"2018_SOC","Computer network architects","it","computer","occupation",NA,102,0,0,14,39,30,16,2,45
+2021,"2018_SOC","Computer occupations, all other","it","computer","occupation",NA,889,6,68,204,230,200,151,30,42.2
+2021,"2018_SOC","Operations research analysts","it","data_science","occupation",NA,141,0,6,35,38,33,24,5,42.6
+2021,"2018_SOC","Statisticians","it","data_science","occupation",NA,45,0,1,16,9,13,5,1,NA
+2021,"2018_SOC","Architecture and engineering occupations","engineering","arch_engineering","group",NA,3235,9,197,910,746,640,561,173,42
+2021,"2018_SOC","Architects, except landscape and naval","engineering","arch_engineering","occupation","2020+ only; see 2019 note",212,0,4,49,45,46,47,21,46.3
+2021,"2018_SOC","Landscape architects","engineering","arch_engineering","occupation",NA,27,0,1,7,6,5,5,2,NA
+2021,"2018_SOC","Surveyors, cartographers, and photogrammetrists","engineering","arch_engineering","occupation",NA,41,0,1,7,11,11,9,2,NA
+2021,"2018_SOC","Aerospace engineers","engineering","arch_engineering","occupation",NA,129,0,9,39,26,19,30,6,41.9
+2021,"2018_SOC","Agricultural engineers","engineering","arch_engineering","occupation",NA,8,0,0,2,4,1,1,0,NA
+2021,"2018_SOC","Bioengineers and biomedical engineers","engineering","arch_engineering","occupation","2020+ only; see 2019 note",15,0,3,5,4,1,2,0,NA
+2021,"2018_SOC","Chemical engineers","engineering","arch_engineering","occupation",NA,75,0,7,17,15,17,15,4,45.1
+2021,"2018_SOC","Civil engineers","engineering","arch_engineering","occupation",NA,431,0,35,138,97,79,58,24,39.7
+2021,"2018_SOC","Computer hardware engineers","engineering","arch_engineering","occupation",NA,88,0,1,36,27,11,8,5,38.2
+2021,"2018_SOC","Electrical and electronics engineers","engineering","arch_engineering","occupation",NA,299,0,9,80,65,68,63,13,43.7
+2021,"2018_SOC","Environmental engineers","engineering","arch_engineering","occupation",NA,33,0,2,7,5,10,7,2,NA
+2021,"2018_SOC","Industrial engineers, including health and safety","engineering","arch_engineering","occupation",NA,216,0,11,66,55,45,32,7,41.5
+2021,"2018_SOC","Marine engineers and naval architects","engineering","arch_engineering","occupation",NA,12,0,1,4,2,5,1,0,NA
+2021,"2018_SOC","Materials engineers","engineering","arch_engineering","occupation",NA,43,1,4,13,8,8,6,2,NA
+2021,"2018_SOC","Mechanical engineers","engineering","arch_engineering","occupation",NA,354,0,31,110,87,59,55,12,40
+2021,"2018_SOC","Mining and geological engineers, including mining safety engineers","engineering","arch_engineering","occupation",NA,8,0,0,2,4,2,0,0,NA
+2021,"2018_SOC","Nuclear engineers","engineering","arch_engineering","occupation",NA,11,0,0,0,8,0,3,1,NA
+2021,"2018_SOC","Petroleum engineers","engineering","arch_engineering","occupation",NA,16,0,0,4,6,1,4,1,NA
+2021,"2018_SOC","Engineers, all other","engineering","arch_engineering","occupation",NA,666,0,35,200,145,140,110,37,41.8
+2021,"2018_SOC","Architectural and civil drafters","engineering","arch_engineering","occupation","2020+ only; see 2019 note",32,0,1,11,7,5,3,4,NA
+2021,"2018_SOC","Other drafters","engineering","arch_engineering","occupation","2020+ only; see 2019 note",93,0,5,23,31,18,12,4,41.5
+2021,"2018_SOC","Electrical and electronic engineering technologists and technicians","engineering","eng_technician","occupation","2020+ only; see 2019 note",74,2,5,8,16,13,20,9,49
+2021,"2018_SOC","Other engineering technologists and technicians, except drafters","engineering","eng_technician","occupation","2020+ only; see 2019 note",293,3,26,66,59,68,62,11,43.3
+2021,"2018_SOC","Surveying and mapping technicians","engineering","eng_technician","occupation",NA,57,0,5,17,14,9,8,5,39.9
+2021,"2018_SOC","Life, physical, and social science occupations","life_science","life_science","group",NA,1640,9,119,501,353,304,248,106,41
+2021,"2018_SOC","Agricultural and food scientists","life_science","life_science","occupation",NA,32,0,3,15,4,4,5,1,NA
+2021,"2018_SOC","Biological scientists","life_science","life_science","occupation",NA,94,0,4,28,21,16,18,6,42.6
+2021,"2018_SOC","Conservation scientists and foresters","life_science","life_science","occupation",NA,22,0,1,8,6,4,2,1,NA
+2021,"2018_SOC","Medical scientists","life_science","life_science","occupation",NA,121,0,4,31,31,27,20,8,43.4
+2021,"2018_SOC","Life scientists, all other","life_science","life_science","occupation",NA,8,0,0,6,2,0,0,0,NA
+2021,"2018_SOC","Astronomers and physicists","life_science","physical_science","occupation",NA,22,0,0,7,5,3,3,4,NA
+2021,"2018_SOC","Atmospheric and space scientists","life_science","physical_science","occupation",NA,11,0,1,1,3,5,1,0,NA
+2021,"2018_SOC","Chemists and materials scientists","life_science","physical_science","occupation",NA,94,0,5,28,19,15,20,8,43
+2021,"2018_SOC","Environmental scientists and specialists, including health","life_science","physical_science","occupation","2020+ only; see 2019 note",40,0,1,10,8,13,6,2,NA
+2021,"2018_SOC","Geoscientists and hydrologists, except geographers","life_science","physical_science","occupation","2020+ only; see 2019 note",42,0,0,14,15,5,8,0,NA
+2021,"2018_SOC","Physical scientists, all other","life_science","physical_science","occupation",NA,370,0,21,119,108,67,39,16,39.9
+2021,"2018_SOC","Agricultural and food science technicians","life_science","science_technician","occupation",NA,30,0,2,12,5,5,2,3,NA
+2021,"2018_SOC","Biological technicians","life_science","science_technician","occupation",NA,18,1,2,7,1,2,5,1,NA
+2021,"2018_SOC","Chemical technicians","life_science","science_technician","occupation",NA,48,0,7,16,5,12,5,2,NA
+2021,"2018_SOC","Environmental science and geoscience technicians","life_science","science_technician","occupation","2020+ only; see 2019 note",15,0,0,8,2,2,2,0,NA
+2021,"2018_SOC","Nuclear technicians","life_science","science_technician","occupation",NA,2,0,0,1,1,0,0,0,NA
+2021,"2018_SOC","Other life, physical, and social science technicians","life_science","science_technician","occupation","2020+ only; see 2019 note",269,6,47,91,34,42,38,11,34.6
+2021,"2018_SOC","Technical writers","it","technical_writer","occupation",NA,71,0,5,13,13,15,20,5,49.5
+2021,"2018_SOC","Healthcare practitioners and technical occupations","healthcare","health_practitioner","group",NA,9639,52,522,2515,2365,2010,1573,602,42.7
+2021,"2018_SOC","Chiropractors","healthcare","health_practitioner","occupation",NA,59,0,0,14,9,16,13,8,49.4
+2021,"2018_SOC","Dentists","healthcare","health_practitioner","occupation",NA,167,0,0,34,48,29,35,21,46.6
+2021,"2018_SOC","Dietitians and nutritionists","healthcare","health_practitioner","occupation",NA,117,0,4,30,30,19,28,6,43.9
+2021,"2018_SOC","Optometrists","healthcare","health_practitioner","occupation",NA,37,0,0,7,12,7,11,1,NA
+2021,"2018_SOC","Pharmacists","healthcare","health_practitioner","occupation",NA,352,0,10,106,111,64,42,19,41.4
+2021,"2018_SOC","Emergency medicine physicians","healthcare","health_practitioner","occupation","2020+ only",24,0,0,2,14,4,2,2,NA
+2021,"2018_SOC","Radiologists","healthcare","health_practitioner","occupation","2020+ only",26,0,0,5,5,7,4,4,NA
+2021,"2018_SOC","Other physicians","healthcare","health_practitioner","occupation","2020+ only",921,0,1,206,230,214,167,104,46.2
+2021,"2018_SOC","Surgeons","healthcare","health_practitioner","occupation","2020+ only",59,0,0,8,18,15,12,6,46.7
+2021,"2018_SOC","Physician assistants","healthcare","health_practitioner","occupation",NA,165,0,2,63,57,26,8,8,39.4
+2021,"2018_SOC","Podiatrists","healthcare","health_practitioner","occupation",NA,8,0,0,1,1,1,3,1,NA
+2021,"2018_SOC","Audiologists","healthcare","health_practitioner","occupation",NA,17,0,0,7,4,2,1,2,NA
+2021,"2018_SOC","Occupational therapists","healthcare","health_practitioner","occupation",NA,135,0,1,54,29,18,27,6,41.8
+2021,"2018_SOC","Physical therapists","healthcare","health_practitioner","occupation",NA,273,1,7,86,74,54,41,10,41.2
+2021,"2018_SOC","Radiation therapists","healthcare","health_practitioner","occupation",NA,15,0,0,3,5,5,1,1,NA
+2021,"2018_SOC","Recreational therapists","healthcare","health_practitioner","occupation",NA,18,0,3,5,2,4,4,1,NA
+2021,"2018_SOC","Respiratory therapists","healthcare","health_practitioner","occupation",NA,117,0,6,23,26,23,34,5,47.7
+2021,"2018_SOC","Speech-language pathologists","healthcare","health_practitioner","occupation",NA,187,0,9,65,46,37,22,8,41.1
+2021,"2018_SOC","Exercise physiologists","healthcare","health_practitioner","occupation","2020+ only",6,0,1,3,0,1,0,1,NA
+2021,"2018_SOC","Therapists, all other","healthcare","health_practitioner","occupation",NA,242,0,12,85,59,37,32,17,39.6
+2021,"2018_SOC","Veterinarians","healthcare","health_practitioner","occupation",NA,104,0,0,25,26,25,14,14,45.2
+2021,"2018_SOC","Registered nurses","healthcare","health_practitioner","occupation",NA,3201,5,162,824,773,712,540,184,43.1
+2021,"2018_SOC","Nurse anesthetists","healthcare","health_practitioner","occupation",NA,35,0,0,6,11,12,4,2,NA
+2021,"2018_SOC","Nurse midwives","healthcare","health_practitioner","occupation",NA,8,0,0,2,1,2,3,0,NA
+2021,"2018_SOC","Nurse practitioners","healthcare","health_practitioner","occupation",NA,237,0,0,46,88,66,30,7,43.5
+2021,"2018_SOC","Acupuncturists","healthcare","health_practitioner","occupation","2020+ only",24,0,0,1,5,3,8,8,NA
+2021,"2018_SOC","Healthcare diagnosing or treating practitioners, all other","healthcare","health_practitioner","occupation","2020+ only; see 2019 note",13,0,0,2,2,5,3,1,NA
+2021,"2018_SOC","Clinical laboratory technologists and technicians","healthcare","health_technician","occupation",NA,369,4,38,104,77,67,58,21,40.5
+2021,"2018_SOC","Dental hygienists","healthcare","health_technician","occupation",NA,207,0,7,48,49,58,34,11,44.8
+2021,"2018_SOC","Cardiovascular technologists and technicians","healthcare","health_technician","occupation","2020+ only",61,2,5,13,10,14,14,3,47.2
+2021,"2018_SOC","Diagnostic medical sonographers","healthcare","health_technician","occupation","2020+ only",88,0,4,20,24,24,13,2,42
+2021,"2018_SOC","Radiologic technologists and technicians","healthcare","health_technician","occupation","2020+ only",226,0,8,57,60,47,44,10,43.4
+2021,"2018_SOC","Magnetic resonance imaging technologists","healthcare","health_technician","occupation","2020+ only",47,0,1,7,12,12,10,3,NA
+2021,"2018_SOC","Nuclear medicine technologists and medical dosimetrists","healthcare","health_technician","occupation","2020+ only",39,0,1,7,10,13,7,1,NA
+2021,"2018_SOC","Emergency medical technicians","healthcare","health_technician","occupation","2020+ only",145,5,36,51,22,15,14,2,30.8
+2021,"2018_SOC","Paramedics","healthcare","health_technician","occupation","2020+ only",96,0,5,32,28,22,6,4,38.5
+2021,"2018_SOC","Pharmacy technicians","healthcare","health_technician","occupation",NA,342,11,51,107,79,47,36,11,36.1
+2021,"2018_SOC","Psychiatric technicians","healthcare","health_technician","occupation",NA,73,1,21,21,14,10,3,3,30.7
+2021,"2018_SOC","Surgical technologists","healthcare","health_technician","occupation",NA,113,1,8,33,32,24,13,3,39.8
+2021,"2018_SOC","Veterinary technologists and technicians","healthcare","health_technician","occupation",NA,129,2,32,46,29,8,9,3,31.8
+2021,"2018_SOC","Dietetic technicians and ophthalmic medical technicians","healthcare","health_technician","occupation","2020+ only",66,9,11,11,14,8,8,5,35
+2021,"2018_SOC","Licensed practical and licensed vocational nurses","healthcare","health_technician","occupation",NA,533,6,45,121,113,114,106,29,43.8
+2021,"2018_SOC","Medical records specialists","healthcare","health_technician","occupation","2020+ only",207,3,9,41,47,52,40,16,46.3
+2021,"2018_SOC","Opticians, dispensing","healthcare","health_technician","occupation",NA,50,0,4,11,10,10,12,4,45.2
+2021,"2018_SOC","Miscellaneous health technologists and technicians","healthcare","health_technician","occupation",NA,177,2,9,44,31,37,38,15,45.4
+2021,"2018_SOC","Other healthcare practitioners and technical occupations","healthcare","health_technician","occupation",NA,105,0,7,31,17,21,19,9,42.6
+2022,"2018_SOC","Computer and information systems managers","it","it_management","occupation",NA,764,2,10,132,225,222,141,31,45.7
+2022,"2018_SOC","Architectural and engineering managers","engineering","arch_engineering","occupation",NA,202,3,5,30,52,59,42,11,46.5
+2022,"2018_SOC","Natural sciences managers","life_science","life_science","occupation",NA,28,0,1,5,8,9,5,1,NA
+2022,"2018_SOC","Computer and mathematical occupations","it","computer","group",NA,6171,32,378,1896,1587,1158,905,216,40.6
+2022,"2018_SOC","Computer and information research scientists","it","computer","occupation",NA,41,0,3,17,3,7,10,0,NA
+2022,"2018_SOC","Computer systems analysts","it","computer","occupation",NA,501,1,25,136,134,97,70,39,42.3
+2022,"2018_SOC","Information security analysts","it","computer","occupation",NA,178,2,7,42,57,35,32,3,42
+2022,"2018_SOC","Computer programmers","it","computer","occupation",NA,457,9,21,118,107,82,92,27,42.8
+2022,"2018_SOC","Software developers","it","computer","occupation","2020+ only; see 2019 note",2085,0,133,746,553,376,234,43,38.9
+2022,"2018_SOC","Software quality assurance analysts and testers","it","computer","occupation","2020+ only; see 2019 note",83,0,2,20,24,20,11,5,43.8
+2022,"2018_SOC","Web developers","it","computer","occupation",NA,79,2,5,31,28,6,6,2,37.3
+2022,"2018_SOC","Web and digital interface designers","it","computer","occupation","2020+ only",89,1,3,37,27,14,6,1,36.4
+2022,"2018_SOC","Computer support specialists","it","computer","occupation",NA,704,4,43,206,165,136,121,30,42
+2022,"2018_SOC","Database administrators and architects","it","computer","occupation","2020+ only; see 2019 note",137,1,10,32,24,33,34,4,46.4
+2022,"2018_SOC","Network and computer systems administrators","it","computer","occupation",NA,217,0,7,56,59,44,47,4,43.5
+2022,"2018_SOC","Computer network architects","it","computer","occupation",NA,98,0,3,20,32,24,15,4,43.2
+2022,"2018_SOC","Computer occupations, all other","it","computer","occupation",NA,969,10,56,251,256,201,156,40,41.7
+2022,"2018_SOC","Operations research analysts","it","data_science","occupation",NA,135,0,14,32,32,23,28,7,41.9
+2022,"2018_SOC","Statisticians","it","data_science","occupation",NA,51,0,8,17,10,9,6,1,36.8
+2022,"2018_SOC","Architecture and engineering occupations","engineering","arch_engineering","group",NA,3464,18,207,973,754,683,607,222,42.3
+2022,"2018_SOC","Architects, except landscape and naval","engineering","arch_engineering","occupation","2020+ only; see 2019 note",182,0,5,30,50,45,33,18,46.6
+2022,"2018_SOC","Landscape architects","engineering","arch_engineering","occupation",NA,32,0,1,8,7,6,8,2,NA
+2022,"2018_SOC","Surveyors, cartographers, and photogrammetrists","engineering","arch_engineering","occupation",NA,43,0,0,14,7,6,13,3,NA
+2022,"2018_SOC","Aerospace engineers","engineering","arch_engineering","occupation",NA,173,0,7,65,27,28,36,10,41.1
+2022,"2018_SOC","Agricultural engineers","engineering","arch_engineering","occupation",NA,4,0,0,1,0,2,1,0,NA
+2022,"2018_SOC","Bioengineers and biomedical engineers","engineering","arch_engineering","occupation","2020+ only; see 2019 note",24,0,3,8,10,1,1,0,NA
+2022,"2018_SOC","Chemical engineers","engineering","arch_engineering","occupation",NA,75,0,8,28,18,10,7,4,36
+2022,"2018_SOC","Civil engineers","engineering","arch_engineering","occupation",NA,482,2,32,165,97,86,69,31,40
+2022,"2018_SOC","Computer hardware engineers","engineering","arch_engineering","occupation",NA,90,0,5,20,29,20,14,2,42.5
+2022,"2018_SOC","Electrical and electronics engineers","engineering","arch_engineering","occupation",NA,296,0,11,87,59,67,56,18,43
+2022,"2018_SOC","Environmental engineers","engineering","arch_engineering","occupation",NA,47,0,3,15,10,5,9,4,NA
+2022,"2018_SOC","Industrial engineers, including health and safety","engineering","arch_engineering","occupation",NA,221,4,14,59,52,48,34,10,42.2
+2022,"2018_SOC","Marine engineers and naval architects","engineering","arch_engineering","occupation",NA,8,0,0,2,2,2,1,1,NA
+2022,"2018_SOC","Materials engineers","engineering","arch_engineering","occupation",NA,48,0,1,17,9,7,9,3,NA
+2022,"2018_SOC","Mechanical engineers","engineering","arch_engineering","occupation",NA,403,2,32,128,71,67,81,22,41.5
+2022,"2018_SOC","Mining and geological engineers, including mining safety engineers","engineering","arch_engineering","occupation",NA,3,0,0,1,0,0,2,0,NA
+2022,"2018_SOC","Nuclear engineers","engineering","arch_engineering","occupation",NA,11,0,0,4,3,0,1,3,NA
+2022,"2018_SOC","Petroleum engineers","engineering","arch_engineering","occupation",NA,18,0,1,4,8,3,2,0,NA
+2022,"2018_SOC","Engineers, all other","engineering","arch_engineering","occupation",NA,631,1,31,171,154,140,100,35,42.8
+2022,"2018_SOC","Architectural and civil drafters","engineering","arch_engineering","occupation","2020+ only; see 2019 note",46,2,2,13,8,11,6,3,NA
+2022,"2018_SOC","Other drafters","engineering","arch_engineering","occupation","2020+ only; see 2019 note",80,0,5,15,19,15,18,7,46
+2022,"2018_SOC","Electrical and electronic engineering technologists and technicians","engineering","eng_technician","occupation","2020+ only; see 2019 note",90,1,4,15,16,23,24,8,48.4
+2022,"2018_SOC","Other engineering technologists and technicians, except drafters","engineering","eng_technician","occupation","2020+ only; see 2019 note",374,5,30,82,80,78,72,28,43.7
+2022,"2018_SOC","Surveying and mapping technicians","engineering","eng_technician","occupation",NA,83,0,12,21,17,12,11,10,40.7
+2022,"2018_SOC","Life, physical, and social science occupations","life_science","life_science","group",NA,1840,13,146,559,430,325,251,115,40.5
+2022,"2018_SOC","Agricultural and food scientists","life_science","life_science","occupation",NA,19,0,1,4,8,3,1,1,NA
+2022,"2018_SOC","Biological scientists","life_science","life_science","occupation",NA,110,0,5,29,34,17,21,5,42.9
+2022,"2018_SOC","Conservation scientists and foresters","life_science","life_science","occupation",NA,29,0,1,12,5,4,6,2,NA
+2022,"2018_SOC","Medical scientists","life_science","life_science","occupation",NA,147,1,3,41,48,30,17,7,42
+2022,"2018_SOC","Life scientists, all other","life_science","life_science","occupation",NA,13,0,1,10,2,0,0,0,NA
+2022,"2018_SOC","Astronomers and physicists","life_science","physical_science","occupation",NA,26,0,2,5,5,4,7,3,NA
+2022,"2018_SOC","Atmospheric and space scientists","life_science","physical_science","occupation",NA,12,0,0,4,2,3,3,0,NA
+2022,"2018_SOC","Chemists and materials scientists","life_science","physical_science","occupation",NA,78,0,7,24,16,16,12,3,39.5
+2022,"2018_SOC","Environmental scientists and specialists, including health","life_science","physical_science","occupation","2020+ only; see 2019 note",33,0,5,8,7,7,6,1,NA
+2022,"2018_SOC","Geoscientists and hydrologists, except geographers","life_science","physical_science","occupation","2020+ only; see 2019 note",43,0,0,13,13,7,8,3,NA
+2022,"2018_SOC","Physical scientists, all other","life_science","physical_science","occupation",NA,442,2,33,165,114,68,43,18,38.4
+2022,"2018_SOC","Agricultural and food science technicians","life_science","science_technician","occupation",NA,42,1,4,11,8,9,9,0,NA
+2022,"2018_SOC","Biological technicians","life_science","science_technician","occupation",NA,24,0,5,5,5,1,5,3,NA
+2022,"2018_SOC","Chemical technicians","life_science","science_technician","occupation",NA,51,1,5,15,13,10,4,2,36.9
+2022,"2018_SOC","Environmental science and geoscience technicians","life_science","science_technician","occupation","2020+ only; see 2019 note",15,0,3,2,3,4,3,0,NA
+2022,"2018_SOC","Nuclear technicians","life_science","science_technician","occupation",NA,7,0,0,4,1,1,1,0,NA
+2022,"2018_SOC","Other life, physical, and social science technicians","life_science","science_technician","occupation","2020+ only; see 2019 note",320,8,56,102,51,42,43,17,34.8
+2022,"2018_SOC","Technical writers","it","technical_writer","occupation",NA,53,0,4,9,14,9,15,2,46.9
+2022,"2018_SOC","Healthcare practitioners and technical occupations","healthcare","health_practitioner","group",NA,9808,53,596,2536,2505,1955,1572,591,42.3
+2022,"2018_SOC","Chiropractors","healthcare","health_practitioner","occupation",NA,57,0,1,14,12,9,8,13,48.3
+2022,"2018_SOC","Dentists","healthcare","health_practitioner","occupation",NA,140,2,1,28,38,29,26,16,46.6
+2022,"2018_SOC","Dietitians and nutritionists","healthcare","health_practitioner","occupation",NA,141,3,8,32,45,23,19,11,41.4
+2022,"2018_SOC","Optometrists","healthcare","health_practitioner","occupation",NA,42,0,0,5,12,9,10,7,NA
+2022,"2018_SOC","Pharmacists","healthcare","health_practitioner","occupation",NA,375,0,8,88,127,80,53,19,42.2
+2022,"2018_SOC","Emergency medicine physicians","healthcare","health_practitioner","occupation","2020+ only",21,0,0,4,7,4,5,1,NA
+2022,"2018_SOC","Radiologists","healthcare","health_practitioner","occupation","2020+ only",26,0,0,5,10,2,5,4,NA
+2022,"2018_SOC","Other physicians","healthcare","health_practitioner","occupation","2020+ only",933,0,0,196,272,207,154,104,45.1
+2022,"2018_SOC","Surgeons","healthcare","health_practitioner","occupation","2020+ only",48,0,0,4,13,15,11,5,NA
+2022,"2018_SOC","Physician assistants","healthcare","health_practitioner","occupation",NA,160,0,5,58,61,21,9,5,39
+2022,"2018_SOC","Podiatrists","healthcare","health_practitioner","occupation",NA,13,0,0,0,4,3,3,3,NA
+2022,"2018_SOC","Audiologists","healthcare","health_practitioner","occupation",NA,12,0,0,6,1,1,2,2,NA
+2022,"2018_SOC","Occupational therapists","healthcare","health_practitioner","occupation",NA,149,0,4,58,29,29,21,6,40.6
+2022,"2018_SOC","Physical therapists","healthcare","health_practitioner","occupation",NA,274,0,6,85,73,56,43,11,42
+2022,"2018_SOC","Radiation therapists","healthcare","health_practitioner","occupation",NA,16,0,0,2,5,3,5,0,NA
+2022,"2018_SOC","Recreational therapists","healthcare","health_practitioner","occupation",NA,14,0,1,6,2,1,3,1,NA
+2022,"2018_SOC","Respiratory therapists","healthcare","health_practitioner","occupation",NA,104,0,4,24,21,23,28,4,47.7
+2022,"2018_SOC","Speech-language pathologists","healthcare","health_practitioner","occupation",NA,171,0,6,50,43,43,22,7,42.2
+2022,"2018_SOC","Exercise physiologists","healthcare","health_practitioner","occupation","2020+ only",5,0,2,1,0,1,0,0,NA
+2022,"2018_SOC","Therapists, all other","healthcare","health_practitioner","occupation",NA,254,0,22,75,63,45,31,17,40.1
+2022,"2018_SOC","Veterinarians","healthcare","health_practitioner","occupation",NA,83,0,0,14,27,22,9,13,46.6
+2022,"2018_SOC","Registered nurses","healthcare","health_practitioner","occupation",NA,3363,6,179,878,818,719,573,191,42.8
+2022,"2018_SOC","Nurse anesthetists","healthcare","health_practitioner","occupation",NA,37,0,0,4,18,10,4,1,NA
+2022,"2018_SOC","Nurse midwives","healthcare","health_practitioner","occupation",NA,6,0,0,1,1,3,1,0,NA
+2022,"2018_SOC","Nurse practitioners","healthcare","health_practitioner","occupation",NA,263,0,0,60,96,62,30,15,43.3
+2022,"2018_SOC","Acupuncturists","healthcare","health_practitioner","occupation","2020+ only",28,0,0,1,7,10,8,3,NA
+2022,"2018_SOC","Healthcare diagnosing or treating practitioners, all other","healthcare","health_practitioner","occupation","2020+ only; see 2019 note",15,0,0,3,5,3,3,0,NA
+2022,"2018_SOC","Clinical laboratory technologists and technicians","healthcare","health_technician","occupation",NA,333,5,38,92,63,59,58,18,40.7
+2022,"2018_SOC","Dental hygienists","healthcare","health_technician","occupation",NA,217,0,10,50,60,40,43,14,43.7
+2022,"2018_SOC","Cardiovascular technologists and technicians","healthcare","health_technician","occupation","2020+ only",46,0,5,9,12,10,7,2,NA
+2022,"2018_SOC","Diagnostic medical sonographers","healthcare","health_technician","occupation","2020+ only",93,0,10,30,19,22,10,1,39.2
+2022,"2018_SOC","Radiologic technologists and technicians","healthcare","health_technician","occupation","2020+ only",223,1,7,52,57,52,44,10,44.2
+2022,"2018_SOC","Magnetic resonance imaging technologists","healthcare","health_technician","occupation","2020+ only",52,0,4,14,12,13,6,4,41.8
+2022,"2018_SOC","Nuclear medicine technologists and medical dosimetrists","healthcare","health_technician","occupation","2020+ only",28,0,1,8,8,7,3,1,NA
+2022,"2018_SOC","Emergency medical technicians","healthcare","health_technician","occupation","2020+ only",139,1,41,42,31,11,11,1,31.2
+2022,"2018_SOC","Paramedics","healthcare","health_technician","occupation","2020+ only",107,0,4,33,36,16,15,3,40.4
+2022,"2018_SOC","Pharmacy technicians","healthcare","health_technician","occupation",NA,355,10,67,106,93,39,32,9,35.6
+2022,"2018_SOC","Psychiatric technicians","healthcare","health_technician","occupation",NA,91,1,20,29,19,10,8,3,31.8
+2022,"2018_SOC","Surgical technologists","healthcare","health_technician","occupation",NA,93,0,7,31,27,9,15,4,39.6
+2022,"2018_SOC","Veterinary technologists and technicians","healthcare","health_technician","occupation",NA,148,5,28,53,34,12,15,1,31.7
+2022,"2018_SOC","Dietetic technicians and ophthalmic medical technicians","healthcare","health_technician","occupation","2020+ only",68,13,12,17,5,8,10,4,29.6
+2022,"2018_SOC","Licensed practical and licensed vocational nurses","healthcare","health_technician","occupation",NA,588,5,55,149,108,126,117,28,42.9
+2022,"2018_SOC","Medical records specialists","healthcare","health_technician","occupation","2020+ only",193,0,11,40,47,36,44,14,45.6
+2022,"2018_SOC","Opticians, dispensing","healthcare","health_technician","occupation",NA,46,1,5,15,9,5,10,1,NA
+2022,"2018_SOC","Miscellaneous health technologists and technicians","healthcare","health_technician","occupation",NA,146,1,14,40,34,30,22,6,41.2
+2022,"2018_SOC","Other healthcare practitioners and technical occupations","healthcare","health_technician","occupation",NA,91,0,8,27,19,16,15,6,40.4
+2023,"2018_SOC","Computer and information systems managers","it","it_management","occupation",NA,793,0,8,156,243,223,139,24,44.8
+2023,"2018_SOC","Architectural and engineering managers","engineering","arch_engineering","occupation",NA,206,0,0,32,60,60,43,12,46.6
+2023,"2018_SOC","Natural sciences managers","life_science","life_science","occupation",NA,39,0,2,10,14,4,7,3,NA
+2023,"2018_SOC","Computer and mathematical occupations","it","computer","group",NA,6502,35,387,1949,1746,1272,895,218,40.8
+2023,"2018_SOC","Computer and information research scientists","it","computer","occupation",NA,44,0,2,29,7,3,2,1,NA
+2023,"2018_SOC","Computer systems analysts","it","computer","occupation",NA,513,2,25,130,121,119,88,28,43.9
+2023,"2018_SOC","Information security analysts","it","computer","occupation",NA,231,0,17,67,54,54,33,6,40.6
+2023,"2018_SOC","Computer programmers","it","computer","occupation",NA,402,3,19,103,99,84,71,23,42.7
+2023,"2018_SOC","Software developers","it","computer","occupation","2020+ only; see 2019 note",2134,7,132,779,582,349,220,65,38.7
+2023,"2018_SOC","Software quality assurance analysts and testers","it","computer","occupation","2020+ only; see 2019 note",76,0,1,16,27,16,12,3,42.8
+2023,"2018_SOC","Web developers","it","computer","occupation",NA,76,1,3,26,25,9,9,2,40.1
+2023,"2018_SOC","Web and digital interface designers","it","computer","occupation","2020+ only",79,2,12,29,21,10,4,2,36.1
+2023,"2018_SOC","Computer support specialists","it","computer","occupation",NA,687,5,44,185,186,138,104,25,41.8
+2023,"2018_SOC","Database administrators and architects","it","computer","occupation","2020+ only; see 2019 note",122,0,3,28,31,28,30,3,45.4
+2023,"2018_SOC","Network and computer systems administrators","it","computer","occupation",NA,202,0,4,47,64,51,33,3,43.1
+2023,"2018_SOC","Computer network architects","it","computer","occupation",NA,104,0,4,23,34,23,18,1,43.9
+2023,"2018_SOC","Computer occupations, all other","it","computer","occupation",NA,1197,13,70,261,330,288,201,35,42.6
+2023,"2018_SOC","Operations research analysts","it","data_science","occupation",NA,138,0,4,35,40,24,24,11,43.2
+2023,"2018_SOC","Statisticians","it","data_science","occupation",NA,46,1,0,19,14,7,4,1,NA
+2023,"2018_SOC","Architecture and engineering occupations","engineering","arch_engineering","group",NA,3602,19,287,987,793,682,630,205,41.9
+2023,"2018_SOC","Architects, except landscape and naval","engineering","arch_engineering","occupation","2020+ only; see 2019 note",203,0,6,48,51,47,33,18,44.2
+2023,"2018_SOC","Landscape architects","engineering","arch_engineering","occupation",NA,28,0,1,4,9,6,7,2,NA
+2023,"2018_SOC","Surveyors, cartographers, and photogrammetrists","engineering","arch_engineering","occupation",NA,44,0,2,6,14,5,7,9,NA
+2023,"2018_SOC","Aerospace engineers","engineering","arch_engineering","occupation",NA,166,0,14,45,38,20,36,13,42.1
+2023,"2018_SOC","Agricultural engineers","engineering","arch_engineering","occupation",NA,4,0,0,0,1,0,0,1,NA
+2023,"2018_SOC","Bioengineers and biomedical engineers","engineering","arch_engineering","occupation","2020+ only; see 2019 note",26,0,1,12,9,2,0,2,NA
+2023,"2018_SOC","Chemical engineers","engineering","arch_engineering","occupation",NA,83,1,9,26,19,16,9,2,36.9
+2023,"2018_SOC","Civil engineers","engineering","arch_engineering","occupation",NA,517,4,41,166,102,90,85,29,40.6
+2023,"2018_SOC","Computer hardware engineers","engineering","arch_engineering","occupation",NA,71,0,4,17,20,15,14,1,42.8
+2023,"2018_SOC","Electrical and electronics engineers","engineering","arch_engineering","occupation",NA,250,2,11,65,41,58,58,15,45.8
+2023,"2018_SOC","Environmental engineers","engineering","arch_engineering","occupation",NA,38,0,3,12,11,2,6,3,NA
+2023,"2018_SOC","Industrial engineers, including health and safety","engineering","arch_engineering","occupation",NA,298,0,39,83,63,50,53,9,40.3
+2023,"2018_SOC","Marine engineers and naval architects","engineering","arch_engineering","occupation",NA,16,1,3,2,2,5,3,1,NA
+2023,"2018_SOC","Materials engineers","engineering","arch_engineering","occupation",NA,54,0,3,24,10,5,6,5,37.9
+2023,"2018_SOC","Mechanical engineers","engineering","arch_engineering","occupation",NA,433,1,29,139,92,83,72,16,40.2
+2023,"2018_SOC","Mining and geological engineers, including mining safety engineers","engineering","arch_engineering","occupation",NA,10,0,1,0,5,2,2,0,NA
+2023,"2018_SOC","Nuclear engineers","engineering","arch_engineering","occupation",NA,3,0,0,2,0,0,0,0,NA
+2023,"2018_SOC","Petroleum engineers","engineering","arch_engineering","occupation",NA,12,0,0,4,4,1,3,1,NA
+2023,"2018_SOC","Engineers, all other","engineering","arch_engineering","occupation",NA,669,0,49,183,150,131,112,44,42.4
+2023,"2018_SOC","Architectural and civil drafters","engineering","arch_engineering","occupation","2020+ only; see 2019 note",33,0,3,4,9,6,7,2,NA
+2023,"2018_SOC","Other drafters","engineering","arch_engineering","occupation","2020+ only; see 2019 note",98,2,10,27,21,20,12,6,39.1
+2023,"2018_SOC","Electrical and electronic engineering technologists and technicians","engineering","eng_technician","occupation","2020+ only; see 2019 note",97,2,8,16,24,21,17,9,46.3
+2023,"2018_SOC","Other engineering technologists and technicians, except drafters","engineering","eng_technician","occupation","2020+ only; see 2019 note",366,3,27,84,81,86,73,12,43.7
+2023,"2018_SOC","Surveying and mapping technicians","engineering","eng_technician","occupation",NA,87,1,20,17,17,11,15,6,35.3
+2023,"2018_SOC","Life, physical, and social science occupations","life_science","life_science","group",NA,1870,10,153,570,434,342,221,141,40.2
+2023,"2018_SOC","Agricultural and food scientists","life_science","life_science","occupation",NA,29,0,1,12,9,4,1,2,NA
+2023,"2018_SOC","Biological scientists","life_science","life_science","occupation",NA,118,0,8,41,25,23,13,7,41.1
+2023,"2018_SOC","Conservation scientists and foresters","life_science","life_science","occupation",NA,32,0,5,8,3,4,8,3,NA
+2023,"2018_SOC","Medical scientists","life_science","life_science","occupation",NA,130,0,1,41,44,26,15,4,41.5
+2023,"2018_SOC","Life scientists, all other","life_science","life_science","occupation",NA,8,0,0,4,0,3,1,0,NA
+2023,"2018_SOC","Astronomers and physicists","life_science","physical_science","occupation",NA,25,0,3,5,3,4,4,5,NA
+2023,"2018_SOC","Atmospheric and space scientists","life_science","physical_science","occupation",NA,15,0,0,7,5,0,1,2,NA
+2023,"2018_SOC","Chemists and materials scientists","life_science","physical_science","occupation",NA,93,0,7,24,26,19,11,5,41.4
+2023,"2018_SOC","Environmental scientists and specialists, including health","life_science","physical_science","occupation","2020+ only; see 2019 note",46,0,10,10,15,4,7,0,NA
+2023,"2018_SOC","Geoscientists and hydrologists, except geographers","life_science","physical_science","occupation","2020+ only; see 2019 note",33,0,0,6,14,7,3,2,NA
+2023,"2018_SOC","Physical scientists, all other","life_science","physical_science","occupation",NA,441,0,23,179,112,68,32,27,37.7
+2023,"2018_SOC","Agricultural and food science technicians","life_science","science_technician","occupation",NA,48,3,5,10,7,7,12,5,NA
+2023,"2018_SOC","Biological technicians","life_science","science_technician","occupation",NA,32,0,3,17,5,2,5,1,NA
+2023,"2018_SOC","Chemical technicians","life_science","science_technician","occupation",NA,63,1,15,14,19,6,7,2,36.1
+2023,"2018_SOC","Environmental science and geoscience technicians","life_science","science_technician","occupation","2020+ only; see 2019 note",18,0,3,4,5,5,2,0,NA
+2023,"2018_SOC","Nuclear technicians","life_science","science_technician","occupation",NA,6,0,0,0,2,2,2,0,NA
+2023,"2018_SOC","Other life, physical, and social science technicians","life_science","science_technician","occupation","2020+ only; see 2019 note",304,6,61,89,42,51,37,18,34.9
+2023,"2018_SOC","Technical writers","it","technical_writer","occupation",NA,49,0,0,8,12,15,12,3,NA
+2023,"2018_SOC","Healthcare practitioners and technical occupations","healthcare","health_practitioner","group",NA,10099,48,640,2690,2558,1940,1579,645,42.2
+2023,"2018_SOC","Chiropractors","healthcare","health_practitioner","occupation",NA,60,0,1,11,13,14,9,11,46
+2023,"2018_SOC","Dentists","healthcare","health_practitioner","occupation",NA,164,0,0,32,40,42,26,23,46.7
+2023,"2018_SOC","Dietitians and nutritionists","healthcare","health_practitioner","occupation",NA,114,1,6,37,27,26,13,4,40.3
+2023,"2018_SOC","Optometrists","healthcare","health_practitioner","occupation",NA,47,0,0,5,13,5,14,11,NA
+2023,"2018_SOC","Pharmacists","healthcare","health_practitioner","occupation",NA,354,2,12,98,108,67,42,25,41.5
+2023,"2018_SOC","Emergency medicine physicians","healthcare","health_practitioner","occupation","2020+ only",27,0,0,5,7,6,9,0,NA
+2023,"2018_SOC","Radiologists","healthcare","health_practitioner","occupation","2020+ only",19,0,0,5,4,3,5,3,NA
+2023,"2018_SOC","Other physicians","healthcare","health_practitioner","occupation","2020+ only",903,0,0,208,248,180,156,110,45.6
+2023,"2018_SOC","Surgeons","healthcare","health_practitioner","occupation","2020+ only",59,0,0,11,18,15,10,6,45.9
+2023,"2018_SOC","Physician assistants","healthcare","health_practitioner","occupation",NA,178,0,3,72,62,19,14,7,38.3
+2023,"2018_SOC","Podiatrists","healthcare","health_practitioner","occupation",NA,11,0,0,1,2,4,3,1,NA
+2023,"2018_SOC","Audiologists","healthcare","health_practitioner","occupation",NA,19,0,0,5,3,6,4,2,NA
+2023,"2018_SOC","Occupational therapists","healthcare","health_practitioner","occupation",NA,155,0,3,60,39,27,22,4,40.7
+2023,"2018_SOC","Physical therapists","healthcare","health_practitioner","occupation",NA,312,1,9,88,68,78,58,9,44
+2023,"2018_SOC","Radiation therapists","healthcare","health_practitioner","occupation",NA,16,0,0,5,3,3,4,0,NA
+2023,"2018_SOC","Recreational therapists","healthcare","health_practitioner","occupation",NA,17,0,3,5,2,4,2,1,NA
+2023,"2018_SOC","Respiratory therapists","healthcare","health_practitioner","occupation",NA,92,0,1,23,26,23,16,2,43.2
+2023,"2018_SOC","Speech-language pathologists","healthcare","health_practitioner","occupation",NA,185,0,9,62,45,36,23,10,40.6
+2023,"2018_SOC","Exercise physiologists","healthcare","health_practitioner","occupation","2020+ only",6,0,0,3,2,0,0,0,NA
+2023,"2018_SOC","Therapists, all other","healthcare","health_practitioner","occupation",NA,303,2,23,75,74,66,33,29,42
+2023,"2018_SOC","Veterinarians","healthcare","health_practitioner","occupation",NA,87,0,0,17,29,27,8,6,44.3
+2023,"2018_SOC","Registered nurses","healthcare","health_practitioner","occupation",NA,3472,3,210,926,893,677,573,190,42.3
+2023,"2018_SOC","Nurse anesthetists","healthcare","health_practitioner","occupation",NA,22,0,0,3,9,3,5,3,NA
+2023,"2018_SOC","Nurse midwives","healthcare","health_practitioner","occupation",NA,6,0,0,1,3,1,0,0,NA
+2023,"2018_SOC","Nurse practitioners","healthcare","health_practitioner","occupation",NA,276,0,0,62,112,52,38,13,42.7
+2023,"2018_SOC","Acupuncturists","healthcare","health_practitioner","occupation","2020+ only",27,0,0,1,9,6,7,4,NA
+2023,"2018_SOC","Healthcare diagnosing or treating practitioners, all other","healthcare","health_practitioner","occupation","2020+ only; see 2019 note",13,0,0,2,3,5,1,2,NA
+2023,"2018_SOC","Clinical laboratory technologists and technicians","healthcare","health_technician","occupation",NA,302,2,37,74,58,48,63,20,42.3
+2023,"2018_SOC","Dental hygienists","healthcare","health_technician","occupation",NA,206,1,9,51,56,40,35,13,43.1
+2023,"2018_SOC","Cardiovascular technologists and technicians","healthcare","health_technician","occupation","2020+ only",48,0,4,14,14,7,6,3,NA
+2023,"2018_SOC","Diagnostic medical sonographers","healthcare","health_technician","occupation","2020+ only",105,0,7,30,24,25,17,3,41.6
+2023,"2018_SOC","Radiologic technologists and technicians","healthcare","health_technician","occupation","2020+ only",259,1,10,73,71,54,36,15,41.6
+2023,"2018_SOC","Magnetic resonance imaging technologists","healthcare","health_technician","occupation","2020+ only",46,0,1,12,11,8,11,2,NA
+2023,"2018_SOC","Nuclear medicine technologists and medical dosimetrists","healthcare","health_technician","occupation","2020+ only",42,0,0,9,14,7,9,3,NA
+2023,"2018_SOC","Emergency medical technicians","healthcare","health_technician","occupation","2020+ only",156,7,41,61,23,12,11,1,29.7
+2023,"2018_SOC","Paramedics","healthcare","health_technician","occupation","2020+ only",107,0,11,26,32,19,16,3,40.6
+2023,"2018_SOC","Pharmacy technicians","healthcare","health_technician","occupation",NA,330,6,61,96,83,53,23,8,36.3
+2023,"2018_SOC","Psychiatric technicians","healthcare","health_technician","occupation",NA,113,2,32,43,18,10,3,5,29.9
+2023,"2018_SOC","Surgical technologists","healthcare","health_technician","occupation",NA,110,0,9,41,27,17,12,3,39.1
+2023,"2018_SOC","Veterinary technologists and technicians","healthcare","health_technician","occupation",NA,142,1,35,50,29,14,10,3,31.4
+2023,"2018_SOC","Dietetic technicians and ophthalmic medical technicians","healthcare","health_technician","occupation","2020+ only",70,10,13,13,8,13,9,5,34.1
+2023,"2018_SOC","Licensed practical and licensed vocational nurses","healthcare","health_technician","occupation",NA,584,6,49,138,117,123,107,43,43.8
+2023,"2018_SOC","Medical records specialists","healthcare","health_technician","occupation","2020+ only",211,0,8,39,42,56,52,13,46.9
+2023,"2018_SOC","Opticians, dispensing","healthcare","health_technician","occupation",NA,49,1,5,12,11,6,9,7,NA
+2023,"2018_SOC","Miscellaneous health technologists and technicians","healthcare","health_technician","occupation",NA,146,1,17,36,31,21,31,9,42.8
+2023,"2018_SOC","Other healthcare practitioners and technical occupations","healthcare","health_technician","occupation",NA,130,1,10,48,24,13,25,9,39.6
+2024,"2018_SOC","Computer and information systems managers","it","it_management","occupation",NA,732,0,4,92,236,217,153,31,47
+2024,"2018_SOC","Architectural and engineering managers","engineering","arch_engineering","occupation",NA,201,0,0,26,58,56,40,21,47
+2024,"2018_SOC","Natural sciences managers","life_science","life_science","occupation",NA,53,0,7,19,11,8,8,0,36.2
+2024,"2018_SOC","Computer and mathematical occupations","it","computer","group",NA,6386,27,408,1875,1712,1266,886,212,40.7
+2024,"2018_SOC","Computer and information research scientists","it","computer","occupation",NA,36,1,8,9,9,6,3,0,NA
+2024,"2018_SOC","Computer systems analysts","it","computer","occupation",NA,547,1,46,158,136,98,84,24,41
+2024,"2018_SOC","Information security analysts","it","computer","occupation",NA,243,1,15,70,61,58,28,10,40.5
+2024,"2018_SOC","Computer programmers","it","computer","occupation",NA,334,3,21,74,88,74,60,14,43
+2024,"2018_SOC","Software developers","it","computer","occupation","2020+ only; see 2019 note",2077,3,129,742,567,366,230,40,38.8
+2024,"2018_SOC","Software quality assurance analysts and testers","it","computer","occupation","2020+ only; see 2019 note",82,0,4,29,22,12,12,4,40.6
+2024,"2018_SOC","Web developers","it","computer","occupation",NA,54,0,5,18,12,11,7,0,40.5
+2024,"2018_SOC","Web and digital interface designers","it","computer","occupation","2020+ only",96,0,3,34,32,14,10,2,39.3
+2024,"2018_SOC","Computer support specialists","it","computer","occupation",NA,633,1,47,160,175,121,97,32,41.7
+2024,"2018_SOC","Database administrators and architects","it","computer","occupation","2020+ only; see 2019 note",148,1,4,50,38,30,21,4,40.8
+2024,"2018_SOC","Network and computer systems administrators","it","computer","occupation",NA,154,0,7,26,42,38,37,5,45.4
+2024,"2018_SOC","Computer network architects","it","computer","occupation",NA,139,0,2,20,51,43,17,6,45.1
+2024,"2018_SOC","Computer occupations, all other","it","computer","occupation",NA,1188,10,72,280,283,290,207,47,43.2
+2024,"2018_SOC","Operations research analysts","it","data_science","occupation",NA,176,2,5,39,54,39,30,8,42.9
+2024,"2018_SOC","Statisticians","it","data_science","occupation",NA,70,0,4,21,20,14,11,0,40.7
+2024,"2018_SOC","Architecture and engineering occupations","engineering","arch_engineering","group",NA,3552,17,228,983,796,673,637,218,42.2
+2024,"2018_SOC","Architects, except landscape and naval","engineering","arch_engineering","occupation","2020+ only; see 2019 note",209,0,7,49,42,51,38,22,45.6
+2024,"2018_SOC","Landscape architects","engineering","arch_engineering","occupation",NA,18,0,1,5,6,4,1,1,NA
+2024,"2018_SOC","Surveyors, cartographers, and photogrammetrists","engineering","arch_engineering","occupation",NA,48,0,2,8,16,7,10,4,NA
+2024,"2018_SOC","Aerospace engineers","engineering","arch_engineering","occupation",NA,182,0,14,56,39,32,27,14,41.5
+2024,"2018_SOC","Agricultural engineers","engineering","arch_engineering","occupation",NA,2,0,0,1,1,0,0,0,NA
+2024,"2018_SOC","Bioengineers and biomedical engineers","engineering","arch_engineering","occupation","2020+ only; see 2019 note",25,0,0,12,4,6,2,0,NA
+2024,"2018_SOC","Chemical engineers","engineering","arch_engineering","occupation",NA,79,0,5,27,15,11,18,2,39.8
+2024,"2018_SOC","Civil engineers","engineering","arch_engineering","occupation",NA,523,1,51,145,113,89,96,28,41.5
+2024,"2018_SOC","Computer hardware engineers","engineering","arch_engineering","occupation",NA,85,0,5,25,21,12,19,4,42.7
+2024,"2018_SOC","Electrical and electronics engineers","engineering","arch_engineering","occupation",NA,266,0,14,70,59,63,40,20,42.9
+2024,"2018_SOC","Environmental engineers","engineering","arch_engineering","occupation",NA,33,0,3,7,11,1,8,3,NA
+2024,"2018_SOC","Industrial engineers, including health and safety","engineering","arch_engineering","occupation",NA,268,1,16,87,62,45,49,9,40.3
+2024,"2018_SOC","Marine engineers and naval architects","engineering","arch_engineering","occupation",NA,20,0,5,3,2,5,4,0,NA
+2024,"2018_SOC","Materials engineers","engineering","arch_engineering","occupation",NA,48,0,3,10,16,7,9,3,NA
+2024,"2018_SOC","Mechanical engineers","engineering","arch_engineering","occupation",NA,389,1,23,128,84,73,61,20,40.4
+2024,"2018_SOC","Mining and geological engineers, including mining safety engineers","engineering","arch_engineering","occupation",NA,7,0,1,3,3,0,0,0,NA
+2024,"2018_SOC","Nuclear engineers","engineering","arch_engineering","occupation",NA,7,0,0,2,2,0,1,2,NA
+2024,"2018_SOC","Petroleum engineers","engineering","arch_engineering","occupation",NA,23,0,0,5,10,3,2,3,NA
+2024,"2018_SOC","Engineers, all other","engineering","arch_engineering","occupation",NA,697,2,33,209,146,143,121,42,42.2
+2024,"2018_SOC","Architectural and civil drafters","engineering","arch_engineering","occupation","2020+ only; see 2019 note",38,0,3,7,10,5,8,6,NA
+2024,"2018_SOC","Other drafters","engineering","arch_engineering","occupation","2020+ only; see 2019 note",92,1,6,19,27,20,13,6,42.1
+2024,"2018_SOC","Electrical and electronic engineering technologists and technicians","engineering","eng_technician","occupation","2020+ only; see 2019 note",85,2,3,17,24,19,14,7,43.9
+2024,"2018_SOC","Other engineering technologists and technicians, except drafters","engineering","eng_technician","occupation","2020+ only; see 2019 note",355,6,28,71,73,67,91,19,45.2
+2024,"2018_SOC","Surveying and mapping technicians","engineering","eng_technician","occupation",NA,53,4,4,19,11,8,5,3,37.4
+2024,"2018_SOC","Life, physical, and social science occupations","life_science","life_science","group",NA,1877,16,156,547,440,348,236,133,40.8
+2024,"2018_SOC","Agricultural and food scientists","life_science","life_science","occupation",NA,23,0,1,9,5,7,0,1,NA
+2024,"2018_SOC","Biological scientists","life_science","life_science","occupation",NA,105,0,7,38,22,19,9,10,39
+2024,"2018_SOC","Conservation scientists and foresters","life_science","life_science","occupation",NA,24,0,3,4,4,6,6,2,NA
+2024,"2018_SOC","Medical scientists","life_science","life_science","occupation",NA,127,0,1,41,46,15,18,7,41.5
+2024,"2018_SOC","Life scientists, all other","life_science","life_science","occupation",NA,6,0,1,1,3,1,0,0,NA
+2024,"2018_SOC","Astronomers and physicists","life_science","physical_science","occupation",NA,23,0,2,5,5,5,3,3,NA
+2024,"2018_SOC","Atmospheric and space scientists","life_science","physical_science","occupation",NA,8,0,0,3,2,1,0,1,NA
+2024,"2018_SOC","Chemists and materials scientists","life_science","physical_science","occupation",NA,87,0,4,25,17,25,8,7,43.6
+2024,"2018_SOC","Environmental scientists and specialists, including health","life_science","physical_science","occupation","2020+ only; see 2019 note",51,0,4,20,10,5,10,1,38.5
+2024,"2018_SOC","Geoscientists and hydrologists, except geographers","life_science","physical_science","occupation","2020+ only; see 2019 note",37,0,0,10,14,2,4,6,NA
+2024,"2018_SOC","Physical scientists, all other","life_science","physical_science","occupation",NA,474,0,25,178,134,71,44,22,39.2
+2024,"2018_SOC","Agricultural and food science technicians","life_science","science_technician","occupation",NA,52,3,5,16,8,7,10,3,37.7
+2024,"2018_SOC","Biological technicians","life_science","science_technician","occupation",NA,21,0,2,12,1,2,3,0,NA
+2024,"2018_SOC","Chemical technicians","life_science","science_technician","occupation",NA,57,0,4,13,12,12,15,1,42.5
+2024,"2018_SOC","Environmental science and geoscience technicians","life_science","science_technician","occupation","2020+ only; see 2019 note",18,0,3,8,3,0,4,0,NA
+2024,"2018_SOC","Nuclear technicians","life_science","science_technician","occupation",NA,6,0,0,2,2,0,1,1,NA
+2024,"2018_SOC","Other life, physical, and social science technicians","life_science","science_technician","occupation","2020+ only; see 2019 note",340,12,79,83,52,60,42,13,35.4
+2024,"2018_SOC","Technical writers","it","technical_writer","occupation",NA,63,0,1,10,15,12,20,5,48.3
+2024,"2018_SOC","Healthcare practitioners and technical occupations","healthcare","health_practitioner","group",NA,10475,71,606,2773,2723,2090,1573,640,42
+2024,"2018_SOC","Chiropractors","healthcare","health_practitioner","occupation",NA,55,0,0,6,15,13,11,10,49.1
+2024,"2018_SOC","Dentists","healthcare","health_practitioner","occupation",NA,169,0,0,19,57,41,35,17,47.2
+2024,"2018_SOC","Dietitians and nutritionists","healthcare","health_practitioner","occupation",NA,142,0,6,34,29,42,21,9,44.5
+2024,"2018_SOC","Optometrists","healthcare","health_practitioner","occupation",NA,36,0,0,6,6,7,9,8,NA
+2024,"2018_SOC","Pharmacists","healthcare","health_practitioner","occupation",NA,326,0,14,96,99,54,38,24,41.3
+2024,"2018_SOC","Emergency medicine physicians","healthcare","health_practitioner","occupation","2020+ only",20,0,0,7,4,7,3,0,NA
+2024,"2018_SOC","Radiologists","healthcare","health_practitioner","occupation","2020+ only",26,0,0,5,5,5,4,8,NA
+2024,"2018_SOC","Other physicians","healthcare","health_practitioner","occupation","2020+ only",904,0,3,196,253,188,147,116,45.6
+2024,"2018_SOC","Surgeons","healthcare","health_practitioner","occupation","2020+ only",41,0,0,7,14,12,4,4,NA
+2024,"2018_SOC","Physician assistants","healthcare","health_practitioner","occupation",NA,182,3,4,73,48,29,20,4,38.4
+2024,"2018_SOC","Podiatrists","healthcare","health_practitioner","occupation",NA,8,0,0,2,2,0,2,2,NA
+2024,"2018_SOC","Audiologists","healthcare","health_practitioner","occupation",NA,31,0,1,10,6,9,4,1,NA
+2024,"2018_SOC","Occupational therapists","healthcare","health_practitioner","occupation",NA,155,0,1,54,37,31,27,5,42.1
+2024,"2018_SOC","Physical therapists","healthcare","health_practitioner","occupation",NA,320,1,13,101,78,69,44,14,42
+2024,"2018_SOC","Radiation therapists","healthcare","health_practitioner","occupation",NA,8,0,0,2,2,1,3,0,NA
+2024,"2018_SOC","Recreational therapists","healthcare","health_practitioner","occupation",NA,10,0,4,1,3,0,1,0,NA
+2024,"2018_SOC","Respiratory therapists","healthcare","health_practitioner","occupation",NA,84,0,1,20,27,19,13,3,42
+2024,"2018_SOC","Speech-language pathologists","healthcare","health_practitioner","occupation",NA,212,0,12,67,69,40,18,6,39.9
+2024,"2018_SOC","Exercise physiologists","healthcare","health_practitioner","occupation","2020+ only",5,0,0,3,2,0,0,0,NA
+2024,"2018_SOC","Therapists, all other","healthcare","health_practitioner","occupation",NA,385,1,27,131,76,83,45,22,39.8
+2024,"2018_SOC","Veterinarians","healthcare","health_practitioner","occupation",NA,98,0,1,20,42,20,11,5,42.8
+2024,"2018_SOC","Registered nurses","healthcare","health_practitioner","occupation",NA,3571,3,171,967,934,718,581,197,42.3
+2024,"2018_SOC","Nurse anesthetists","healthcare","health_practitioner","occupation",NA,31,0,0,5,11,9,3,3,NA
+2024,"2018_SOC","Nurse midwives","healthcare","health_practitioner","occupation",NA,18,0,0,2,7,5,2,2,NA
+2024,"2018_SOC","Nurse practitioners","healthcare","health_practitioner","occupation",NA,288,0,1,59,101,74,35,17,43.1
+2024,"2018_SOC","Acupuncturists","healthcare","health_practitioner","occupation","2020+ only",20,0,0,0,5,9,4,3,NA
+2024,"2018_SOC","Healthcare diagnosing or treating practitioners, all other","healthcare","health_practitioner","occupation","2020+ only; see 2019 note",16,0,1,2,4,4,4,1,NA
+2024,"2018_SOC","Clinical laboratory technologists and technicians","healthcare","health_technician","occupation",NA,338,4,37,98,68,55,60,17,40
+2024,"2018_SOC","Dental hygienists","healthcare","health_technician","occupation",NA,214,4,5,49,64,38,45,8,42.6
+2024,"2018_SOC","Cardiovascular technologists and technicians","healthcare","health_technician","occupation","2020+ only",61,0,2,15,15,18,8,3,41.9
+2024,"2018_SOC","Diagnostic medical sonographers","healthcare","health_technician","occupation","2020+ only",104,0,5,30,25,28,11,5,41.3
+2024,"2018_SOC","Radiologic technologists and technicians","healthcare","health_technician","occupation","2020+ only",254,3,18,71,64,50,37,12,40.2
+2024,"2018_SOC","Magnetic resonance imaging technologists","healthcare","health_technician","occupation","2020+ only",55,0,1,12,13,13,14,2,45.6
+2024,"2018_SOC","Nuclear medicine technologists and medical dosimetrists","healthcare","health_technician","occupation","2020+ only",48,0,0,6,15,12,12,2,NA
+2024,"2018_SOC","Emergency medical technicians","healthcare","health_technician","occupation","2020+ only",173,5,44,67,26,18,11,1,30.8
+2024,"2018_SOC","Paramedics","healthcare","health_technician","occupation","2020+ only",95,0,3,27,25,21,15,4,42.6
+2024,"2018_SOC","Pharmacy technicians","healthcare","health_technician","occupation",NA,354,10,65,105,78,58,25,13,35.7
+2024,"2018_SOC","Psychiatric technicians","healthcare","health_technician","occupation",NA,138,4,29,45,29,16,7,6,33.6
+2024,"2018_SOC","Surgical technologists","healthcare","health_technician","occupation",NA,117,1,8,26,37,23,17,5,41.3
+2024,"2018_SOC","Veterinary technologists and technicians","healthcare","health_technician","occupation",NA,145,6,33,60,25,9,12,0,30.2
+2024,"2018_SOC","Dietetic technicians and ophthalmic medical technicians","healthcare","health_technician","occupation","2020+ only",83,12,23,18,11,3,9,7,29.6
+2024,"2018_SOC","Licensed practical and licensed vocational nurses","healthcare","health_technician","occupation",NA,565,8,47,119,151,111,92,37,42.4
+2024,"2018_SOC","Medical records specialists","healthcare","health_technician","occupation","2020+ only",227,0,2,35,49,69,54,18,49.7
+2024,"2018_SOC","Opticians, dispensing","healthcare","health_technician","occupation",NA,49,0,2,13,10,12,10,2,NA
+2024,"2018_SOC","Miscellaneous health technologists and technicians","healthcare","health_technician","occupation",NA,151,0,16,38,40,31,19,8,40.6
+2024,"2018_SOC","Other healthcare practitioners and technical occupations","healthcare","health_technician","occupation",NA,143,3,6,44,39,18,23,10,41
+2025,"2018_SOC","Computer and information systems managers","it","it_management","occupation",NA,646,0,5,93,183,226,118,21,46.4
+2025,"2018_SOC","Architectural and engineering managers","engineering","arch_engineering","occupation",NA,197,0,0,30,45,59,46,15,46.7
+2025,"2018_SOC","Natural sciences managers","life_science","life_science","occupation",NA,44,1,0,10,15,9,7,1,NA
+2025,"2018_SOC","Computer and mathematical occupations","it","computer","group",NA,6711,17,385,1971,1875,1343,905,214,40.7
+2025,"2018_SOC","Computer and information research scientists","it","computer","occupation",NA,29,0,0,13,8,5,2,1,NA
+2025,"2018_SOC","Computer systems analysts","it","computer","occupation",NA,569,1,30,165,164,84,100,24,41.2
+2025,"2018_SOC","Information security analysts","it","computer","occupation",NA,261,1,15,73,68,59,37,9,41.5
+2025,"2018_SOC","Computer programmers","it","computer","occupation",NA,381,3,26,79,107,93,57,16,42.3
+2025,"2018_SOC","Software developers","it","computer","occupation","2020+ only; see 2019 note",2254,3,140,808,655,380,218,51,38.6
+2025,"2018_SOC","Software quality assurance analysts and testers","it","computer","occupation","2020+ only; see 2019 note",72,0,3,22,22,19,5,1,42.3
+2025,"2018_SOC","Web developers","it","computer","occupation",NA,66,0,8,24,17,8,7,2,36.2
+2025,"2018_SOC","Web and digital interface designers","it","computer","occupation","2020+ only",69,0,5,23,23,9,6,3,37.1
+2025,"2018_SOC","Computer support specialists","it","computer","occupation",NA,677,2,40,175,163,154,110,33,42.4
+2025,"2018_SOC","Database administrators and architects","it","computer","occupation","2020+ only; see 2019 note",148,0,1,44,33,32,35,4,44.1
+2025,"2018_SOC","Network and computer systems administrators","it","computer","occupation",NA,154,1,3,34,48,42,20,7,43.8
+2025,"2018_SOC","Computer network architects","it","computer","occupation",NA,96,0,0,13,36,27,16,4,45.1
+2025,"2018_SOC","Computer occupations, all other","it","computer","occupation",NA,1181,4,59,251,330,293,200,43,43.3
+2025,"2018_SOC","Operations research analysts","it","data_science","occupation",NA,178,0,7,37,47,46,35,7,44.4
+2025,"2018_SOC","Statisticians","it","data_science","occupation",NA,50,0,2,21,10,11,6,1,40.6
+2025,"2018_SOC","Architecture and engineering occupations","engineering","arch_engineering","group",NA,3675,24,219,1050,870,686,583,243,41.9
+2025,"2018_SOC","Architects, except landscape and naval","engineering","arch_engineering","occupation","2020+ only; see 2019 note",254,0,8,49,57,66,47,26,47.1
+2025,"2018_SOC","Landscape architects","engineering","arch_engineering","occupation",NA,32,1,1,2,10,12,4,2,NA
+2025,"2018_SOC","Surveyors, cartographers, and photogrammetrists","engineering","arch_engineering","occupation",NA,42,0,1,13,10,7,6,4,NA
+2025,"2018_SOC","Aerospace engineers","engineering","arch_engineering","occupation",NA,168,0,10,57,42,29,20,8,39.5
+2025,"2018_SOC","Agricultural engineers","engineering","arch_engineering","occupation",NA,7,0,0,3,2,1,0,0,NA
+2025,"2018_SOC","Bioengineers and biomedical engineers","engineering","arch_engineering","occupation","2020+ only; see 2019 note",24,0,0,5,5,8,4,1,NA
+2025,"2018_SOC","Chemical engineers","engineering","arch_engineering","occupation",NA,85,2,8,29,15,13,11,8,38.1
+2025,"2018_SOC","Civil engineers","engineering","arch_engineering","occupation",NA,525,1,48,154,122,90,67,43,41.3
+2025,"2018_SOC","Computer hardware engineers","engineering","arch_engineering","occupation",NA,94,0,3,21,23,30,15,1,42.2
+2025,"2018_SOC","Electrical and electronics engineers","engineering","arch_engineering","occupation",NA,284,0,16,85,73,42,45,23,41.4
+2025,"2018_SOC","Environmental engineers","engineering","arch_engineering","occupation",NA,49,0,1,15,10,13,6,3,NA
+2025,"2018_SOC","Industrial engineers, including health and safety","engineering","arch_engineering","occupation",NA,274,0,16,88,58,53,50,10,42.1
+2025,"2018_SOC","Marine engineers and naval architects","engineering","arch_engineering","occupation",NA,15,0,2,5,2,5,1,2,NA
+2025,"2018_SOC","Materials engineers","engineering","arch_engineering","occupation",NA,56,0,3,20,14,7,12,1,40.8
+2025,"2018_SOC","Mechanical engineers","engineering","arch_engineering","occupation",NA,419,3,26,126,95,72,72,25,41.2
+2025,"2018_SOC","Mining and geological engineers, including mining safety engineers","engineering","arch_engineering","occupation",NA,5,0,0,2,0,2,1,1,NA
+2025,"2018_SOC","Nuclear engineers","engineering","arch_engineering","occupation",NA,7,0,0,4,1,0,2,1,NA
+2025,"2018_SOC","Petroleum engineers","engineering","arch_engineering","occupation",NA,15,0,0,5,3,5,2,0,NA
+2025,"2018_SOC","Engineers, all other","engineering","arch_engineering","occupation",NA,685,1,26,202,180,119,110,46,41.8
+2025,"2018_SOC","Architectural and civil drafters","engineering","arch_engineering","occupation","2020+ only; see 2019 note",39,0,5,10,10,5,7,2,NA
+2025,"2018_SOC","Other drafters","engineering","arch_engineering","occupation","2020+ only; see 2019 note",79,1,6,16,18,13,18,7,44.4
+2025,"2018_SOC","Electrical and electronic engineering technologists and technicians","engineering","eng_technician","occupation","2020+ only; see 2019 note",79,1,4,19,24,12,17,3,43
+2025,"2018_SOC","Other engineering technologists and technicians, except drafters","engineering","eng_technician","occupation","2020+ only; see 2019 note",385,8,31,108,84,73,62,20,41.1
+2025,"2018_SOC","Surveying and mapping technicians","engineering","eng_technician","occupation",NA,52,4,3,13,12,9,4,6,40.3
+2025,"2018_SOC","Life, physical, and social science occupations","life_science","life_science","group",NA,1858,13,156,578,458,297,228,128,39.7
+2025,"2018_SOC","Agricultural and food scientists","life_science","life_science","occupation",NA,27,0,1,11,3,7,4,1,NA
+2025,"2018_SOC","Biological scientists","life_science","life_science","occupation",NA,100,0,9,26,37,19,5,5,38.2
+2025,"2018_SOC","Conservation scientists and foresters","life_science","life_science","occupation",NA,27,0,3,10,2,4,6,1,NA
+2025,"2018_SOC","Medical scientists","life_science","life_science","occupation",NA,102,0,1,35,31,13,17,6,41.2
+2025,"2018_SOC","Life scientists, all other","life_science","life_science","occupation",NA,5,0,0,2,1,2,0,0,NA
+2025,"2018_SOC","Astronomers and physicists","life_science","physical_science","occupation",NA,24,0,0,7,6,6,2,2,NA
+2025,"2018_SOC","Atmospheric and space scientists","life_science","physical_science","occupation",NA,11,0,0,1,5,2,2,1,NA
+2025,"2018_SOC","Chemists and materials scientists","life_science","physical_science","occupation",NA,106,1,8,39,22,14,16,7,39.8
+2025,"2018_SOC","Environmental scientists and specialists, including health","life_science","physical_science","occupation","2020+ only; see 2019 note",63,0,6,18,14,14,7,4,40.3
+2025,"2018_SOC","Geoscientists and hydrologists, except geographers","life_science","physical_science","occupation","2020+ only; see 2019 note",43,0,1,10,18,5,6,4,NA
+2025,"2018_SOC","Physical scientists, all other","life_science","physical_science","occupation",NA,362,0,18,121,113,54,38,17,39.7
+2025,"2018_SOC","Agricultural and food science technicians","life_science","science_technician","occupation",NA,55,1,1,15,13,13,10,2,43.1
+2025,"2018_SOC","Biological technicians","life_science","science_technician","occupation",NA,25,1,4,11,4,4,0,2,NA
+2025,"2018_SOC","Chemical technicians","life_science","science_technician","occupation",NA,75,0,12,22,14,10,11,6,37.6
+2025,"2018_SOC","Environmental science and geoscience technicians","life_science","science_technician","occupation","2020+ only; see 2019 note",16,0,1,6,3,2,3,1,NA
+2025,"2018_SOC","Nuclear technicians","life_science","science_technician","occupation",NA,3,0,1,1,1,0,0,0,NA
+2025,"2018_SOC","Other life, physical, and social science technicians","life_science","science_technician","occupation","2020+ only; see 2019 note",386,9,83,129,62,50,37,15,32
+2025,"2018_SOC","Technical writers","it","technical_writer","occupation",NA,54,0,0,9,17,5,20,3,47.4
+2025,"2018_SOC","Healthcare practitioners and technical occupations","healthcare","health_practitioner","group",NA,10364,70,632,2752,2587,2184,1519,619,42
+2025,"2018_SOC","Chiropractors","healthcare","health_practitioner","occupation",NA,66,0,0,18,9,15,12,13,49.3
+2025,"2018_SOC","Dentists","healthcare","health_practitioner","occupation",NA,192,0,0,25,63,41,41,22,46.1
+2025,"2018_SOC","Dietitians and nutritionists","healthcare","health_practitioner","occupation",NA,136,1,5,28,36,43,16,5,43.2
+2025,"2018_SOC","Optometrists","healthcare","health_practitioner","occupation",NA,48,0,0,9,11,10,10,7,NA
+2025,"2018_SOC","Pharmacists","healthcare","health_practitioner","occupation",NA,365,0,13,98,121,74,37,22,41.4
+2025,"2018_SOC","Emergency medicine physicians","healthcare","health_practitioner","occupation","2020+ only",25,0,0,4,7,5,8,1,NA
+2025,"2018_SOC","Radiologists","healthcare","health_practitioner","occupation","2020+ only",19,0,0,2,5,6,4,3,NA
+2025,"2018_SOC","Other physicians","healthcare","health_practitioner","occupation","2020+ only",929,0,0,206,245,246,129,104,45.6
+2025,"2018_SOC","Surgeons","healthcare","health_practitioner","occupation","2020+ only",73,0,0,19,21,12,11,11,43.6
+2025,"2018_SOC","Physician assistants","healthcare","health_practitioner","occupation",NA,153,0,4,65,42,28,9,5,38
+2025,"2018_SOC","Podiatrists","healthcare","health_practitioner","occupation",NA,9,0,0,3,2,0,3,0,NA
+2025,"2018_SOC","Audiologists","healthcare","health_practitioner","occupation",NA,20,0,3,7,1,6,1,2,NA
+2025,"2018_SOC","Occupational therapists","healthcare","health_practitioner","occupation",NA,138,0,2,41,41,26,23,4,41.9
+2025,"2018_SOC","Physical therapists","healthcare","health_practitioner","occupation",NA,338,0,11,113,85,72,42,15,41.9
+2025,"2018_SOC","Radiation therapists","healthcare","health_practitioner","occupation",NA,10,0,0,0,4,3,2,0,NA
+2025,"2018_SOC","Recreational therapists","healthcare","health_practitioner","occupation",NA,13,1,4,1,4,2,1,1,NA
+2025,"2018_SOC","Respiratory therapists","healthcare","health_practitioner","occupation",NA,89,0,2,20,28,18,12,10,44.4
+2025,"2018_SOC","Speech-language pathologists","healthcare","health_practitioner","occupation",NA,203,0,8,64,56,45,24,6,40.8
+2025,"2018_SOC","Exercise physiologists","healthcare","health_practitioner","occupation","2020+ only",5,0,0,2,2,1,0,0,NA
+2025,"2018_SOC","Therapists, all other","healthcare","health_practitioner","occupation",NA,323,1,20,112,69,69,30,22,40.1
+2025,"2018_SOC","Veterinarians","healthcare","health_practitioner","occupation",NA,91,0,0,24,23,22,11,11,44.3
+2025,"2018_SOC","Registered nurses","healthcare","health_practitioner","occupation",NA,3528,8,193,953,889,731,568,188,42.3
+2025,"2018_SOC","Nurse anesthetists","healthcare","health_practitioner","occupation",NA,25,0,0,3,10,8,3,1,NA
+2025,"2018_SOC","Nurse midwives","healthcare","health_practitioner","occupation",NA,11,0,0,1,6,2,1,2,NA
+2025,"2018_SOC","Nurse practitioners","healthcare","health_practitioner","occupation",NA,325,0,0,59,115,100,34,17,43.3
+2025,"2018_SOC","Acupuncturists","healthcare","health_practitioner","occupation","2020+ only",20,0,0,2,4,4,5,3,NA
+2025,"2018_SOC","Healthcare diagnosing or treating practitioners, all other","healthcare","health_practitioner","occupation","2020+ only; see 2019 note",17,0,0,2,2,8,4,1,NA
+2025,"2018_SOC","Clinical laboratory technologists and technicians","healthcare","health_technician","occupation",NA,313,1,31,96,64,52,53,16,39.9
+2025,"2018_SOC","Dental hygienists","healthcare","health_technician","occupation",NA,203,0,20,46,57,32,41,8,41.5
+2025,"2018_SOC","Cardiovascular technologists and technicians","healthcare","health_technician","occupation","2020+ only",67,0,4,19,12,16,13,3,44
+2025,"2018_SOC","Diagnostic medical sonographers","healthcare","health_technician","occupation","2020+ only",119,1,7,42,21,31,11,5,39.7
+2025,"2018_SOC","Radiologic technologists and technicians","healthcare","health_technician","occupation","2020+ only",274,1,21,68,65,55,53,10,41.5
+2025,"2018_SOC","Magnetic resonance imaging technologists","healthcare","health_technician","occupation","2020+ only",64,0,1,20,11,15,15,1,44.1
+2025,"2018_SOC","Nuclear medicine technologists and medical dosimetrists","healthcare","health_technician","occupation","2020+ only",41,0,1,10,10,6,12,2,NA
+2025,"2018_SOC","Emergency medical technicians","healthcare","health_technician","occupation","2020+ only",135,7,42,48,19,10,8,2,28.7
+2025,"2018_SOC","Paramedics","healthcare","health_technician","occupation","2020+ only",117,0,4,31,34,25,16,6,41.6
+2025,"2018_SOC","Pharmacy technicians","healthcare","health_technician","occupation",NA,373,16,77,102,73,65,28,12,33.9
+2025,"2018_SOC","Psychiatric technicians","healthcare","health_technician","occupation",NA,142,2,34,47,23,19,14,3,32.7
+2025,"2018_SOC","Surgical technologists","healthcare","health_technician","occupation",NA,107,1,10,35,29,12,17,2,38.8
+2025,"2018_SOC","Veterinary technologists and technicians","healthcare","health_technician","occupation",NA,145,9,33,60,23,10,9,1,29.8
+2025,"2018_SOC","Dietetic technicians and ophthalmic medical technicians","healthcare","health_technician","occupation","2020+ only",68,12,15,9,8,11,9,4,33
+2025,"2018_SOC","Licensed practical and licensed vocational nurses","healthcare","health_technician","occupation",NA,545,6,38,134,122,122,90,34,42.9
+2025,"2018_SOC","Medical records specialists","healthcare","health_technician","occupation","2020+ only",166,1,7,17,38,44,41,18,49.8
+2025,"2018_SOC","Opticians, dispensing","healthcare","health_technician","occupation",NA,50,1,4,16,6,11,11,2,45.4
+2025,"2018_SOC","Miscellaneous health technologists and technicians","healthcare","health_technician","occupation",NA,126,1,10,32,35,24,17,7,41.7
+2025,"2018_SOC","Other healthcare practitioners and technical occupations","healthcare","health_technician","occupation",NA,139,2,9,38,39,25,18,8,41.1

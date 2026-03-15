@@ -1,0 +1,533 @@
+"measure_type","year","reason","demographic","value"
+"count",2019,"Total unemployed","Total 16+",6001
+"count",2019,"Total unemployed","Men 20+",2819
+"count",2019,"Total unemployed","Women 20+",2435
+"count",2019,"Total unemployed","Both sexes 16-19",746
+"count",2019,"Job losers and persons who completed temporary jobs","Total 16+",2786
+"count",2019,"Job losers and persons who completed temporary jobs","Men 20+",1548
+"count",2019,"Job losers and persons who completed temporary jobs","Women 20+",1132
+"count",2019,"Job losers and persons who completed temporary jobs","Both sexes 16-19",106
+"count",2019,"On temporary layoff","Total 16+",823
+"count",2019,"On temporary layoff","Men 20+",457
+"count",2019,"On temporary layoff","Women 20+",324
+"count",2019,"On temporary layoff","Both sexes 16-19",42
+"count",2019,"Not on temporary layoff","Total 16+",1963
+"count",2019,"Not on temporary layoff","Men 20+",1091
+"count",2019,"Not on temporary layoff","Women 20+",807
+"count",2019,"Not on temporary layoff","Both sexes 16-19",64
+"count",2019,"Permanent job losers","Total 16+",1343
+"count",2019,"Permanent job losers","Men 20+",736
+"count",2019,"Permanent job losers","Women 20+",569
+"count",2019,"Permanent job losers","Both sexes 16-19",37
+"count",2019,"Persons who completed temporary jobs","Total 16+",620
+"count",2019,"Persons who completed temporary jobs","Men 20+",355
+"count",2019,"Persons who completed temporary jobs","Women 20+",238
+"count",2019,"Persons who completed temporary jobs","Both sexes 16-19",26
+"count",2019,"Job leavers","Total 16+",814
+"count",2019,"Job leavers","Men 20+",418
+"count",2019,"Job leavers","Women 20+",344
+"count",2019,"Job leavers","Both sexes 16-19",52
+"count",2019,"Reentrants","Total 16+",1810
+"count",2019,"Reentrants","Men 20+",708
+"count",2019,"Reentrants","Women 20+",836
+"count",2019,"Reentrants","Both sexes 16-19",265
+"count",2019,"New entrants","Total 16+",591
+"count",2019,"New entrants","Men 20+",144
+"count",2019,"New entrants","Women 20+",123
+"count",2019,"New entrants","Both sexes 16-19",323
+"pct_dist",2019,"Total unemployed","Total 16+",100
+"pct_dist",2019,"Total unemployed","Men 20+",100
+"pct_dist",2019,"Total unemployed","Women 20+",100
+"pct_dist",2019,"Total unemployed","Both sexes 16-19",100
+"pct_dist",2019,"Job losers and persons who completed temporary jobs","Total 16+",46.4
+"pct_dist",2019,"Job losers and persons who completed temporary jobs","Men 20+",54.9
+"pct_dist",2019,"Job losers and persons who completed temporary jobs","Women 20+",46.5
+"pct_dist",2019,"Job losers and persons who completed temporary jobs","Both sexes 16-19",14.2
+"pct_dist",2019,"On temporary layoff","Total 16+",13.7
+"pct_dist",2019,"On temporary layoff","Men 20+",16.2
+"pct_dist",2019,"On temporary layoff","Women 20+",13.3
+"pct_dist",2019,"On temporary layoff","Both sexes 16-19",5.6
+"pct_dist",2019,"Not on temporary layoff","Total 16+",32.7
+"pct_dist",2019,"Not on temporary layoff","Men 20+",38.7
+"pct_dist",2019,"Not on temporary layoff","Women 20+",33.2
+"pct_dist",2019,"Not on temporary layoff","Both sexes 16-19",8.6
+"pct_dist",2019,"Job leavers","Total 16+",13.6
+"pct_dist",2019,"Job leavers","Men 20+",14.8
+"pct_dist",2019,"Job leavers","Women 20+",14.1
+"pct_dist",2019,"Job leavers","Both sexes 16-19",7
+"pct_dist",2019,"Reentrants","Total 16+",30.2
+"pct_dist",2019,"Reentrants","Men 20+",25.1
+"pct_dist",2019,"Reentrants","Women 20+",34.3
+"pct_dist",2019,"Reentrants","Both sexes 16-19",35.5
+"pct_lf",2019,"Job losers and persons who completed temporary jobs","Total 16+",1.7
+"pct_lf",2019,"Job losers and persons who completed temporary jobs","Men 20+",1.8
+"pct_lf",2019,"Job losers and persons who completed temporary jobs","Women 20+",1.5
+"pct_lf",2019,"Job losers and persons who completed temporary jobs","Both sexes 16-19",1.8
+"pct_lf",2019,"Job leavers","Total 16+",0.5
+"pct_lf",2019,"Job leavers","Men 20+",0.5
+"pct_lf",2019,"Job leavers","Women 20+",0.5
+"pct_lf",2019,"Job leavers","Both sexes 16-19",0.9
+"pct_lf",2019,"Reentrants","Total 16+",1.1
+"pct_lf",2019,"Reentrants","Men 20+",0.8
+"pct_lf",2019,"Reentrants","Women 20+",1.1
+"pct_lf",2019,"Reentrants","Both sexes 16-19",4.5
+"pct_lf",2019,"New entrants","Total 16+",0.4
+"pct_lf",2019,"New entrants","Men 20+",0.2
+"pct_lf",2019,"New entrants","Women 20+",0.2
+"pct_lf",2019,"New entrants","Both sexes 16-19",5.5
+"count",2020,"Total unemployed","Total 16+",12947
+"count",2020,"Total unemployed","Men 20+",6118
+"count",2020,"Total unemployed","Women 20+",5804
+"count",2020,"Total unemployed","Both sexes 16-19",1025
+"count",2020,"Job losers and persons who completed temporary jobs","Total 16+",9770
+"count",2020,"Job losers and persons who completed temporary jobs","Men 20+",4837
+"count",2020,"Job losers and persons who completed temporary jobs","Women 20+",4507
+"count",2020,"Job losers and persons who completed temporary jobs","Both sexes 16-19",426
+"count",2020,"On temporary layoff","Total 16+",6371
+"count",2020,"On temporary layoff","Men 20+",2917
+"count",2020,"On temporary layoff","Women 20+",3121
+"count",2020,"On temporary layoff","Both sexes 16-19",333
+"count",2020,"Not on temporary layoff","Total 16+",3399
+"count",2020,"Not on temporary layoff","Men 20+",1920
+"count",2020,"Not on temporary layoff","Women 20+",1386
+"count",2020,"Not on temporary layoff","Both sexes 16-19",92
+"count",2020,"Permanent job losers","Total 16+",2655
+"count",2020,"Permanent job losers","Men 20+",1480
+"count",2020,"Permanent job losers","Women 20+",1107
+"count",2020,"Permanent job losers","Both sexes 16-19",68
+"count",2020,"Persons who completed temporary jobs","Total 16+",744
+"count",2020,"Persons who completed temporary jobs","Men 20+",440
+"count",2020,"Persons who completed temporary jobs","Women 20+",279
+"count",2020,"Persons who completed temporary jobs","Both sexes 16-19",25
+"count",2020,"Job leavers","Total 16+",683
+"count",2020,"Job leavers","Men 20+",343
+"count",2020,"Job leavers","Women 20+",296
+"count",2020,"Job leavers","Both sexes 16-19",44
+"count",2020,"Reentrants","Total 16+",1969
+"count",2020,"Reentrants","Men 20+",817
+"count",2020,"Reentrants","Women 20+",872
+"count",2020,"Reentrants","Both sexes 16-19",281
+"count",2020,"New entrants","Total 16+",526
+"count",2020,"New entrants","Men 20+",121
+"count",2020,"New entrants","Women 20+",130
+"count",2020,"New entrants","Both sexes 16-19",275
+"pct_dist",2020,"Total unemployed","Total 16+",100
+"pct_dist",2020,"Total unemployed","Men 20+",100
+"pct_dist",2020,"Total unemployed","Women 20+",100
+"pct_dist",2020,"Total unemployed","Both sexes 16-19",100
+"pct_dist",2020,"Job losers and persons who completed temporary jobs","Total 16+",75.5
+"pct_dist",2020,"Job losers and persons who completed temporary jobs","Men 20+",79.1
+"pct_dist",2020,"Job losers and persons who completed temporary jobs","Women 20+",77.6
+"pct_dist",2020,"Job losers and persons who completed temporary jobs","Both sexes 16-19",41.5
+"pct_dist",2020,"On temporary layoff","Total 16+",49.2
+"pct_dist",2020,"On temporary layoff","Men 20+",47.7
+"pct_dist",2020,"On temporary layoff","Women 20+",53.8
+"pct_dist",2020,"On temporary layoff","Both sexes 16-19",32.5
+"pct_dist",2020,"Not on temporary layoff","Total 16+",26.3
+"pct_dist",2020,"Not on temporary layoff","Men 20+",31.4
+"pct_dist",2020,"Not on temporary layoff","Women 20+",23.9
+"pct_dist",2020,"Not on temporary layoff","Both sexes 16-19",9
+"pct_dist",2020,"Job leavers","Total 16+",5.3
+"pct_dist",2020,"Job leavers","Men 20+",5.6
+"pct_dist",2020,"Job leavers","Women 20+",5.1
+"pct_dist",2020,"Job leavers","Both sexes 16-19",4.3
+"pct_dist",2020,"Reentrants","Total 16+",15.2
+"pct_dist",2020,"Reentrants","Men 20+",13.3
+"pct_dist",2020,"Reentrants","Women 20+",15
+"pct_dist",2020,"Reentrants","Both sexes 16-19",27.4
+"pct_lf",2020,"Job losers and persons who completed temporary jobs","Total 16+",6.1
+"pct_lf",2020,"Job losers and persons who completed temporary jobs","Men 20+",5.9
+"pct_lf",2020,"Job losers and persons who completed temporary jobs","Women 20+",6.2
+"pct_lf",2020,"Job losers and persons who completed temporary jobs","Both sexes 16-19",7.4
+"pct_lf",2020,"Job leavers","Total 16+",0.4
+"pct_lf",2020,"Job leavers","Men 20+",0.4
+"pct_lf",2020,"Job leavers","Women 20+",0.4
+"pct_lf",2020,"Job leavers","Both sexes 16-19",0.8
+"pct_lf",2020,"Reentrants","Total 16+",1.2
+"pct_lf",2020,"Reentrants","Men 20+",1
+"pct_lf",2020,"Reentrants","Women 20+",1.2
+"pct_lf",2020,"Reentrants","Both sexes 16-19",4.9
+"pct_lf",2020,"New entrants","Total 16+",0.3
+"pct_lf",2020,"New entrants","Men 20+",0.1
+"pct_lf",2020,"New entrants","Women 20+",0.2
+"pct_lf",2020,"New entrants","Both sexes 16-19",4.8
+"count",2021,"Total unemployed","Total 16+",8623
+"count",2021,"Total unemployed","Men 20+",4302
+"count",2021,"Total unemployed","Women 20+",3625
+"count",2021,"Total unemployed","Both sexes 16-19",696
+"count",2021,"Job losers and persons who completed temporary jobs","Total 16+",5099
+"count",2021,"Job losers and persons who completed temporary jobs","Men 20+",2827
+"count",2021,"Job losers and persons who completed temporary jobs","Women 20+",2130
+"count",2021,"Job losers and persons who completed temporary jobs","Both sexes 16-19",142
+"count",2021,"On temporary layoff","Total 16+",1582
+"count",2021,"On temporary layoff","Men 20+",837
+"count",2021,"On temporary layoff","Women 20+",680
+"count",2021,"On temporary layoff","Both sexes 16-19",66
+"count",2021,"Not on temporary layoff","Total 16+",3516
+"count",2021,"Not on temporary layoff","Men 20+",1990
+"count",2021,"Not on temporary layoff","Women 20+",1450
+"count",2021,"Not on temporary layoff","Both sexes 16-19",76
+"count",2021,"Permanent job losers","Total 16+",2799
+"count",2021,"Permanent job losers","Men 20+",1554
+"count",2021,"Permanent job losers","Women 20+",1190
+"count",2021,"Permanent job losers","Both sexes 16-19",55
+"count",2021,"Persons who completed temporary jobs","Total 16+",717
+"count",2021,"Persons who completed temporary jobs","Men 20+",436
+"count",2021,"Persons who completed temporary jobs","Women 20+",260
+"count",2021,"Persons who completed temporary jobs","Both sexes 16-19",21
+"count",2021,"Job leavers","Total 16+",803
+"count",2021,"Job leavers","Men 20+",383
+"count",2021,"Job leavers","Women 20+",372
+"count",2021,"Job leavers","Both sexes 16-19",48
+"count",2021,"Reentrants","Total 16+",2204
+"count",2021,"Reentrants","Men 20+",956
+"count",2021,"Reentrants","Women 20+",1007
+"count",2021,"Reentrants","Both sexes 16-19",241
+"count",2021,"New entrants","Total 16+",518
+"count",2021,"New entrants","Men 20+",136
+"count",2021,"New entrants","Women 20+",116
+"count",2021,"New entrants","Both sexes 16-19",266
+"pct_dist",2021,"Total unemployed","Total 16+",100
+"pct_dist",2021,"Total unemployed","Men 20+",100
+"pct_dist",2021,"Total unemployed","Women 20+",100
+"pct_dist",2021,"Total unemployed","Both sexes 16-19",100
+"pct_dist",2021,"Job losers and persons who completed temporary jobs","Total 16+",59.1
+"pct_dist",2021,"Job losers and persons who completed temporary jobs","Men 20+",65.7
+"pct_dist",2021,"Job losers and persons who completed temporary jobs","Women 20+",58.8
+"pct_dist",2021,"Job losers and persons who completed temporary jobs","Both sexes 16-19",20.4
+"pct_dist",2021,"On temporary layoff","Total 16+",18.4
+"pct_dist",2021,"On temporary layoff","Men 20+",19.5
+"pct_dist",2021,"On temporary layoff","Women 20+",18.7
+"pct_dist",2021,"On temporary layoff","Both sexes 16-19",9.4
+"pct_dist",2021,"Not on temporary layoff","Total 16+",40.8
+"pct_dist",2021,"Not on temporary layoff","Men 20+",46.3
+"pct_dist",2021,"Not on temporary layoff","Women 20+",40
+"pct_dist",2021,"Not on temporary layoff","Both sexes 16-19",10.9
+"pct_dist",2021,"Job leavers","Total 16+",9.3
+"pct_dist",2021,"Job leavers","Men 20+",8.9
+"pct_dist",2021,"Job leavers","Women 20+",10.3
+"pct_dist",2021,"Job leavers","Both sexes 16-19",6.8
+"pct_dist",2021,"Reentrants","Total 16+",25.6
+"pct_dist",2021,"Reentrants","Men 20+",22.2
+"pct_dist",2021,"Reentrants","Women 20+",27.8
+"pct_dist",2021,"Reentrants","Both sexes 16-19",34.6
+"pct_lf",2021,"Job losers and persons who completed temporary jobs","Total 16+",3.2
+"pct_lf",2021,"Job losers and persons who completed temporary jobs","Men 20+",3.4
+"pct_lf",2021,"Job losers and persons who completed temporary jobs","Women 20+",2.9
+"pct_lf",2021,"Job losers and persons who completed temporary jobs","Both sexes 16-19",2.4
+"pct_lf",2021,"Job leavers","Total 16+",0.5
+"pct_lf",2021,"Job leavers","Men 20+",0.5
+"pct_lf",2021,"Job leavers","Women 20+",0.5
+"pct_lf",2021,"Job leavers","Both sexes 16-19",0.8
+"pct_lf",2021,"Reentrants","Total 16+",1.4
+"pct_lf",2021,"Reentrants","Men 20+",1.2
+"pct_lf",2021,"Reentrants","Women 20+",1.4
+"pct_lf",2021,"Reentrants","Both sexes 16-19",4
+"pct_lf",2021,"New entrants","Total 16+",0.3
+"pct_lf",2021,"New entrants","Men 20+",0.2
+"pct_lf",2021,"New entrants","Women 20+",0.2
+"pct_lf",2021,"New entrants","Both sexes 16-19",4.5
+"count",2022,"Total unemployed","Total 16+",5996
+"count",2022,"Total unemployed","Men 20+",2867
+"count",2022,"Total unemployed","Women 20+",2453
+"count",2022,"Total unemployed","Both sexes 16-19",675
+"count",2022,"Job losers and persons who completed temporary jobs","Total 16+",2767
+"count",2022,"Job losers and persons who completed temporary jobs","Men 20+",1566
+"count",2022,"Job losers and persons who completed temporary jobs","Women 20+",1105
+"count",2022,"Job losers and persons who completed temporary jobs","Both sexes 16-19",95
+"count",2022,"On temporary layoff","Total 16+",830
+"count",2022,"On temporary layoff","Men 20+",465
+"count",2022,"On temporary layoff","Women 20+",328
+"count",2022,"On temporary layoff","Both sexes 16-19",37
+"count",2022,"Not on temporary layoff","Total 16+",1936
+"count",2022,"Not on temporary layoff","Men 20+",1101
+"count",2022,"Not on temporary layoff","Women 20+",777
+"count",2022,"Not on temporary layoff","Both sexes 16-19",58
+"count",2022,"Permanent job losers","Total 16+",1359
+"count",2022,"Permanent job losers","Men 20+",763
+"count",2022,"Permanent job losers","Women 20+",564
+"count",2022,"Permanent job losers","Both sexes 16-19",33
+"count",2022,"Persons who completed temporary jobs","Total 16+",577
+"count",2022,"Persons who completed temporary jobs","Men 20+",338
+"count",2022,"Persons who completed temporary jobs","Women 20+",213
+"count",2022,"Persons who completed temporary jobs","Both sexes 16-19",26
+"count",2022,"Job leavers","Total 16+",857
+"count",2022,"Job leavers","Men 20+",421
+"count",2022,"Job leavers","Women 20+",371
+"count",2022,"Job leavers","Both sexes 16-19",65
+"count",2022,"Reentrants","Total 16+",1891
+"count",2022,"Reentrants","Men 20+",761
+"count",2022,"Reentrants","Women 20+",879
+"count",2022,"Reentrants","Both sexes 16-19",251
+"count",2022,"New entrants","Total 16+",482
+"count",2022,"New entrants","Men 20+",119
+"count",2022,"New entrants","Women 20+",98
+"count",2022,"New entrants","Both sexes 16-19",265
+"pct_dist",2022,"Total unemployed","Total 16+",100
+"pct_dist",2022,"Total unemployed","Men 20+",100
+"pct_dist",2022,"Total unemployed","Women 20+",100
+"pct_dist",2022,"Total unemployed","Both sexes 16-19",100
+"pct_dist",2022,"Job losers and persons who completed temporary jobs","Total 16+",46.1
+"pct_dist",2022,"Job losers and persons who completed temporary jobs","Men 20+",54.6
+"pct_dist",2022,"Job losers and persons who completed temporary jobs","Women 20+",45
+"pct_dist",2022,"Job losers and persons who completed temporary jobs","Both sexes 16-19",14.1
+"pct_dist",2022,"On temporary layoff","Total 16+",13.8
+"pct_dist",2022,"On temporary layoff","Men 20+",16.2
+"pct_dist",2022,"On temporary layoff","Women 20+",13.4
+"pct_dist",2022,"On temporary layoff","Both sexes 16-19",5.5
+"pct_dist",2022,"Not on temporary layoff","Total 16+",32.3
+"pct_dist",2022,"Not on temporary layoff","Men 20+",38.4
+"pct_dist",2022,"Not on temporary layoff","Women 20+",31.7
+"pct_dist",2022,"Not on temporary layoff","Both sexes 16-19",8.6
+"pct_dist",2022,"Job leavers","Total 16+",14.3
+"pct_dist",2022,"Job leavers","Men 20+",14.7
+"pct_dist",2022,"Job leavers","Women 20+",15.1
+"pct_dist",2022,"Job leavers","Both sexes 16-19",9.6
+"pct_dist",2022,"Reentrants","Total 16+",31.5
+"pct_dist",2022,"Reentrants","Men 20+",26.5
+"pct_dist",2022,"Reentrants","Women 20+",35.8
+"pct_dist",2022,"Reentrants","Both sexes 16-19",37.1
+"pct_lf",2022,"Job losers and persons who completed temporary jobs","Total 16+",1.7
+"pct_lf",2022,"Job losers and persons who completed temporary jobs","Men 20+",1.9
+"pct_lf",2022,"Job losers and persons who completed temporary jobs","Women 20+",1.5
+"pct_lf",2022,"Job losers and persons who completed temporary jobs","Both sexes 16-19",1.5
+"pct_lf",2022,"Job leavers","Total 16+",0.5
+"pct_lf",2022,"Job leavers","Men 20+",0.5
+"pct_lf",2022,"Job leavers","Women 20+",0.5
+"pct_lf",2022,"Job leavers","Both sexes 16-19",1
+"pct_lf",2022,"Reentrants","Total 16+",1.2
+"pct_lf",2022,"Reentrants","Men 20+",0.9
+"pct_lf",2022,"Reentrants","Women 20+",1.2
+"pct_lf",2022,"Reentrants","Both sexes 16-19",4
+"pct_lf",2022,"New entrants","Total 16+",0.3
+"pct_lf",2022,"New entrants","Men 20+",0.1
+"pct_lf",2022,"New entrants","Women 20+",0.1
+"pct_lf",2022,"New entrants","Both sexes 16-19",4.2
+"count",2023,"Total unemployed","Total 16+",6080
+"count",2023,"Total unemployed","Men 20+",2985
+"count",2023,"Total unemployed","Women 20+",2382
+"count",2023,"Total unemployed","Both sexes 16-19",713
+"count",2023,"Job losers and persons who completed temporary jobs","Total 16+",2870
+"count",2023,"Job losers and persons who completed temporary jobs","Men 20+",1676
+"count",2023,"Job losers and persons who completed temporary jobs","Women 20+",1086
+"count",2023,"Job losers and persons who completed temporary jobs","Both sexes 16-19",108
+"count",2023,"On temporary layoff","Total 16+",811
+"count",2023,"On temporary layoff","Men 20+",463
+"count",2023,"On temporary layoff","Women 20+",299
+"count",2023,"On temporary layoff","Both sexes 16-19",49
+"count",2023,"Not on temporary layoff","Total 16+",2059
+"count",2023,"Not on temporary layoff","Men 20+",1213
+"count",2023,"Not on temporary layoff","Women 20+",787
+"count",2023,"Not on temporary layoff","Both sexes 16-19",58
+"count",2023,"Permanent job losers","Total 16+",1485
+"count",2023,"Permanent job losers","Men 20+",872
+"count",2023,"Permanent job losers","Women 20+",579
+"count",2023,"Permanent job losers","Both sexes 16-19",34
+"count",2023,"Persons who completed temporary jobs","Total 16+",574
+"count",2023,"Persons who completed temporary jobs","Men 20+",341
+"count",2023,"Persons who completed temporary jobs","Women 20+",209
+"count",2023,"Persons who completed temporary jobs","Both sexes 16-19",24
+"count",2023,"Job leavers","Total 16+",822
+"count",2023,"Job leavers","Men 20+",401
+"count",2023,"Job leavers","Women 20+",365
+"count",2023,"Job leavers","Both sexes 16-19",56
+"count",2023,"Reentrants","Total 16+",1831
+"count",2023,"Reentrants","Men 20+",767
+"count",2023,"Reentrants","Women 20+",809
+"count",2023,"Reentrants","Both sexes 16-19",255
+"count",2023,"New entrants","Total 16+",556
+"count",2023,"New entrants","Men 20+",141
+"count",2023,"New entrants","Women 20+",121
+"count",2023,"New entrants","Both sexes 16-19",294
+"pct_dist",2023,"Total unemployed","Total 16+",100
+"pct_dist",2023,"Total unemployed","Men 20+",100
+"pct_dist",2023,"Total unemployed","Women 20+",100
+"pct_dist",2023,"Total unemployed","Both sexes 16-19",100
+"pct_dist",2023,"Job losers and persons who completed temporary jobs","Total 16+",47.2
+"pct_dist",2023,"Job losers and persons who completed temporary jobs","Men 20+",56.1
+"pct_dist",2023,"Job losers and persons who completed temporary jobs","Women 20+",45.6
+"pct_dist",2023,"Job losers and persons who completed temporary jobs","Both sexes 16-19",15.1
+"pct_dist",2023,"On temporary layoff","Total 16+",13.3
+"pct_dist",2023,"On temporary layoff","Men 20+",15.5
+"pct_dist",2023,"On temporary layoff","Women 20+",12.5
+"pct_dist",2023,"On temporary layoff","Both sexes 16-19",6.9
+"pct_dist",2023,"Not on temporary layoff","Total 16+",33.9
+"pct_dist",2023,"Not on temporary layoff","Men 20+",40.6
+"pct_dist",2023,"Not on temporary layoff","Women 20+",33.1
+"pct_dist",2023,"Not on temporary layoff","Both sexes 16-19",8.2
+"pct_dist",2023,"Job leavers","Total 16+",13.5
+"pct_dist",2023,"Job leavers","Men 20+",13.4
+"pct_dist",2023,"Job leavers","Women 20+",15.3
+"pct_dist",2023,"Job leavers","Both sexes 16-19",7.9
+"pct_dist",2023,"Reentrants","Total 16+",30.1
+"pct_dist",2023,"Reentrants","Men 20+",25.7
+"pct_dist",2023,"Reentrants","Women 20+",34
+"pct_dist",2023,"Reentrants","Both sexes 16-19",35.8
+"pct_lf",2023,"Job losers and persons who completed temporary jobs","Total 16+",1.7
+"pct_lf",2023,"Job losers and persons who completed temporary jobs","Men 20+",2
+"pct_lf",2023,"Job losers and persons who completed temporary jobs","Women 20+",1.4
+"pct_lf",2023,"Job losers and persons who completed temporary jobs","Both sexes 16-19",1.7
+"pct_lf",2023,"Job leavers","Total 16+",0.5
+"pct_lf",2023,"Job leavers","Men 20+",0.5
+"pct_lf",2023,"Job leavers","Women 20+",0.5
+"pct_lf",2023,"Job leavers","Both sexes 16-19",0.9
+"pct_lf",2023,"Reentrants","Total 16+",1.1
+"pct_lf",2023,"Reentrants","Men 20+",0.9
+"pct_lf",2023,"Reentrants","Women 20+",1.1
+"pct_lf",2023,"Reentrants","Both sexes 16-19",4
+"pct_lf",2023,"New entrants","Total 16+",0.3
+"pct_lf",2023,"New entrants","Men 20+",0.2
+"pct_lf",2023,"New entrants","Women 20+",0.2
+"pct_lf",2023,"New entrants","Both sexes 16-19",4.6
+"count",2024,"Total unemployed","Total 16+",6761
+"count",2024,"Total unemployed","Men 20+",3206
+"count",2024,"Total unemployed","Women 20+",2731
+"count",2024,"Total unemployed","Both sexes 16-19",823
+"count",2024,"Job losers and persons who completed temporary jobs","Total 16+",3253
+"count",2024,"Job losers and persons who completed temporary jobs","Men 20+",1835
+"count",2024,"Job losers and persons who completed temporary jobs","Women 20+",1291
+"count",2024,"Job losers and persons who completed temporary jobs","Both sexes 16-19",126
+"count",2024,"On temporary layoff","Total 16+",859
+"count",2024,"On temporary layoff","Men 20+",481
+"count",2024,"On temporary layoff","Women 20+",326
+"count",2024,"On temporary layoff","Both sexes 16-19",52
+"count",2024,"Not on temporary layoff","Total 16+",2393
+"count",2024,"Not on temporary layoff","Men 20+",1354
+"count",2024,"Not on temporary layoff","Women 20+",965
+"count",2024,"Not on temporary layoff","Both sexes 16-19",74
+"count",2024,"Permanent job losers","Total 16+",1716
+"count",2024,"Permanent job losers","Men 20+",963
+"count",2024,"Permanent job losers","Women 20+",713
+"count",2024,"Permanent job losers","Both sexes 16-19",41
+"count",2024,"Persons who completed temporary jobs","Total 16+",677
+"count",2024,"Persons who completed temporary jobs","Men 20+",392
+"count",2024,"Persons who completed temporary jobs","Women 20+",253
+"count",2024,"Persons who completed temporary jobs","Both sexes 16-19",33
+"count",2024,"Job leavers","Total 16+",810
+"count",2024,"Job leavers","Men 20+",380
+"count",2024,"Job leavers","Women 20+",378
+"count",2024,"Job leavers","Both sexes 16-19",52
+"count",2024,"Reentrants","Total 16+",2052
+"count",2024,"Reentrants","Men 20+",828
+"count",2024,"Reentrants","Women 20+",923
+"count",2024,"Reentrants","Both sexes 16-19",302
+"count",2024,"New entrants","Total 16+",647
+"count",2024,"New entrants","Men 20+",164
+"count",2024,"New entrants","Women 20+",139
+"count",2024,"New entrants","Both sexes 16-19",344
+"pct_dist",2024,"Total unemployed","Total 16+",100
+"pct_dist",2024,"Total unemployed","Men 20+",100
+"pct_dist",2024,"Total unemployed","Women 20+",100
+"pct_dist",2024,"Total unemployed","Both sexes 16-19",100
+"pct_dist",2024,"Job losers and persons who completed temporary jobs","Total 16+",48.1
+"pct_dist",2024,"Job losers and persons who completed temporary jobs","Men 20+",57.2
+"pct_dist",2024,"Job losers and persons who completed temporary jobs","Women 20+",47.3
+"pct_dist",2024,"Job losers and persons who completed temporary jobs","Both sexes 16-19",15.3
+"pct_dist",2024,"On temporary layoff","Total 16+",12.7
+"pct_dist",2024,"On temporary layoff","Men 20+",15
+"pct_dist",2024,"On temporary layoff","Women 20+",11.9
+"pct_dist",2024,"On temporary layoff","Both sexes 16-19",6.4
+"pct_dist",2024,"Not on temporary layoff","Total 16+",35.4
+"pct_dist",2024,"Not on temporary layoff","Men 20+",42.2
+"pct_dist",2024,"Not on temporary layoff","Women 20+",35.3
+"pct_dist",2024,"Not on temporary layoff","Both sexes 16-19",8.9
+"pct_dist",2024,"Job leavers","Total 16+",12
+"pct_dist",2024,"Job leavers","Men 20+",11.8
+"pct_dist",2024,"Job leavers","Women 20+",13.8
+"pct_dist",2024,"Job leavers","Both sexes 16-19",6.3
+"pct_dist",2024,"Reentrants","Total 16+",30.4
+"pct_dist",2024,"Reentrants","Men 20+",25.8
+"pct_dist",2024,"Reentrants","Women 20+",33.8
+"pct_dist",2024,"Reentrants","Both sexes 16-19",36.7
+"pct_lf",2024,"Job losers and persons who completed temporary jobs","Total 16+",1.9
+"pct_lf",2024,"Job losers and persons who completed temporary jobs","Men 20+",2.1
+"pct_lf",2024,"Job losers and persons who completed temporary jobs","Women 20+",1.7
+"pct_lf",2024,"Job losers and persons who completed temporary jobs","Both sexes 16-19",1.9
+"pct_lf",2024,"Job leavers","Total 16+",0.5
+"pct_lf",2024,"Job leavers","Men 20+",0.4
+"pct_lf",2024,"Job leavers","Women 20+",0.5
+"pct_lf",2024,"Job leavers","Both sexes 16-19",0.8
+"pct_lf",2024,"Reentrants","Total 16+",1.2
+"pct_lf",2024,"Reentrants","Men 20+",1
+"pct_lf",2024,"Reentrants","Women 20+",1.2
+"pct_lf",2024,"Reentrants","Both sexes 16-19",4.7
+"pct_lf",2024,"New entrants","Total 16+",0.4
+"pct_lf",2024,"New entrants","Men 20+",0.2
+"pct_lf",2024,"New entrants","Women 20+",0.2
+"pct_lf",2024,"New entrants","Both sexes 16-19",5.3
+"count",2025,"Total unemployed","Total 16+",7314
+"count",2025,"Total unemployed","Men 20+",3463
+"count",2025,"Total unemployed","Women 20+",2947
+"count",2025,"Total unemployed","Both sexes 16-19",905
+"count",2025,"Job losers and persons who completed temporary jobs","Total 16+",3443
+"count",2025,"Job losers and persons who completed temporary jobs","Men 20+",1965
+"count",2025,"Job losers and persons who completed temporary jobs","Women 20+",1366
+"count",2025,"Job losers and persons who completed temporary jobs","Both sexes 16-19",112
+"count",2025,"On temporary layoff","Total 16+",910
+"count",2025,"On temporary layoff","Men 20+",504
+"count",2025,"On temporary layoff","Women 20+",352
+"count",2025,"On temporary layoff","Both sexes 16-19",54
+"count",2025,"Not on temporary layoff","Total 16+",2534
+"count",2025,"Not on temporary layoff","Men 20+",1461
+"count",2025,"Not on temporary layoff","Women 20+",1014
+"count",2025,"Not on temporary layoff","Both sexes 16-19",58
+"count",2025,"Permanent job losers","Total 16+",1887
+"count",2025,"Permanent job losers","Men 20+",1088
+"count",2025,"Permanent job losers","Women 20+",765
+"count",2025,"Permanent job losers","Both sexes 16-19",35
+"count",2025,"Persons who completed temporary jobs","Total 16+",647
+"count",2025,"Persons who completed temporary jobs","Men 20+",374
+"count",2025,"Persons who completed temporary jobs","Women 20+",249
+"count",2025,"Persons who completed temporary jobs","Both sexes 16-19",24
+"count",2025,"Job leavers","Total 16+",835
+"count",2025,"Job leavers","Men 20+",388
+"count",2025,"Job leavers","Women 20+",402
+"count",2025,"Job leavers","Both sexes 16-19",45
+"count",2025,"Reentrants","Total 16+",2267
+"count",2025,"Reentrants","Men 20+",933
+"count",2025,"Reentrants","Women 20+",1012
+"count",2025,"Reentrants","Both sexes 16-19",322
+"count",2025,"New entrants","Total 16+",770
+"count",2025,"New entrants","Men 20+",177
+"count",2025,"New entrants","Women 20+",168
+"count",2025,"New entrants","Both sexes 16-19",425
+"pct_dist",2025,"Total unemployed","Total 16+",100
+"pct_dist",2025,"Total unemployed","Men 20+",100
+"pct_dist",2025,"Total unemployed","Women 20+",100
+"pct_dist",2025,"Total unemployed","Both sexes 16-19",100
+"pct_dist",2025,"Job losers and persons who completed temporary jobs","Total 16+",47.1
+"pct_dist",2025,"Job losers and persons who completed temporary jobs","Men 20+",56.8
+"pct_dist",2025,"Job losers and persons who completed temporary jobs","Women 20+",46.3
+"pct_dist",2025,"Job losers and persons who completed temporary jobs","Both sexes 16-19",12.4
+"pct_dist",2025,"On temporary layoff","Total 16+",12.4
+"pct_dist",2025,"On temporary layoff","Men 20+",14.5
+"pct_dist",2025,"On temporary layoff","Women 20+",11.9
+"pct_dist",2025,"On temporary layoff","Both sexes 16-19",6
+"pct_dist",2025,"Not on temporary layoff","Total 16+",34.6
+"pct_dist",2025,"Not on temporary layoff","Men 20+",42.2
+"pct_dist",2025,"Not on temporary layoff","Women 20+",34.4
+"pct_dist",2025,"Not on temporary layoff","Both sexes 16-19",6.4
+"pct_dist",2025,"Job leavers","Total 16+",11.4
+"pct_dist",2025,"Job leavers","Men 20+",11.2
+"pct_dist",2025,"Job leavers","Women 20+",13.6
+"pct_dist",2025,"Job leavers","Both sexes 16-19",5
+"pct_dist",2025,"Reentrants","Total 16+",31
+"pct_dist",2025,"Reentrants","Men 20+",26.9
+"pct_dist",2025,"Reentrants","Women 20+",34.3
+"pct_dist",2025,"Reentrants","Both sexes 16-19",35.6
+"pct_lf",2025,"Job losers and persons who completed temporary jobs","Total 16+",2
+"pct_lf",2025,"Job losers and persons who completed temporary jobs","Men 20+",2.3
+"pct_lf",2025,"Job losers and persons who completed temporary jobs","Women 20+",1.8
+"pct_lf",2025,"Job losers and persons who completed temporary jobs","Both sexes 16-19",1.7
+"pct_lf",2025,"Job leavers","Total 16+",0.5
+"pct_lf",2025,"Job leavers","Men 20+",0.4
+"pct_lf",2025,"Job leavers","Women 20+",0.5
+"pct_lf",2025,"Job leavers","Both sexes 16-19",0.7
+"pct_lf",2025,"Reentrants","Total 16+",1.3
+"pct_lf",2025,"Reentrants","Men 20+",1.1
+"pct_lf",2025,"Reentrants","Women 20+",1.3
+"pct_lf",2025,"Reentrants","Both sexes 16-19",5
+"pct_lf",2025,"New entrants","Total 16+",0.5
+"pct_lf",2025,"New entrants","Men 20+",0.2
+"pct_lf",2025,"New entrants","Women 20+",0.2
+"pct_lf",2025,"New entrants","Both sexes 16-19",6.6
