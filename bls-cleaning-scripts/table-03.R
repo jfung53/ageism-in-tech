@@ -77,38 +77,39 @@ clean_table03 <- function(filepath, year) {
   #   header used for fill
   df <- df %>%
     mutate(
-      race_raw = if_else(category %in% race_headers, category, NA_character_)
+      race_data = if_else(category %in% race_headers, category, NA_character_)
     ) %>%
-    fill(race_raw, .direction = "down") %>%
+    fill(race_data, .direction = "down") %>%
     # recode to clean labels
     mutate(
       race = case_when(
-        race_raw == "TOTAL"                    ~ "Total",
-        race_raw == "WHITE"                    ~ "White",
-        race_raw == "BLACK OR AFRICAN AMERICAN" ~ "Black or African American",
-        race_raw == "ASIAN"                    ~ "Asian",
+        race_data == "TOTAL"                    ~ "Total",
+        race_data == "WHITE"                    ~ "White",
+        race_data == "BLACK OR AFRICAN AMERICAN" ~ "Black or African American",
+        race_data == "ASIAN"                    ~ "Asian",
         TRUE                                   ~ NA_character_
       )
     ) %>%
-    select(-race_raw)
+    select(-race_data)
   
-  # step 4: assign sex by forward-filling from "Men" / "Women" rows
-  #   sex headers appear within each race block. The TOTAL race block has an
-  #   overall 16+ block with no sex header before it — those rows get sex = "Total".
+  # step 4: assign sex by forward-filling from "Men" / "Women" rows,
+  #   scoped within each race block so "Women" from one block does not
+  #   bleed into the pre-Men age rows of the next block.
   df <- df %>%
     mutate(
-      sex_raw = case_when(
+      sex_data = case_when(
         category == "Men"   ~ "Men",
         category == "Women" ~ "Women",
         TRUE                ~ NA_character_
       )
     ) %>%
-    fill(sex_raw, .direction = "down") %>%
+    group_by(race) %>%
+    fill(sex_data, .direction = "down") %>%
+    ungroup() %>%
     mutate(
-      # rows before the first "Men" header within each race block have sex = "Total"
-      sex = coalesce(sex_raw, "Total")
+      sex = coalesce(sex_data, "Total")
     ) %>%
-    select(-sex_raw)
+    select(-sex_data)
   
   # step 5: drop section header rows — they have no numeric data
   #   these are: race section headers ("TOTAL", "WHITE", ...) and sex headers ("Men", "Women")
