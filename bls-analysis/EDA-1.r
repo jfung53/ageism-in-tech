@@ -8,7 +8,10 @@
 #
 # ------ initial analysis of bureau of labor statistics data
 
-setwd("/Users/jocelyn/Documents/Pratt/Projects/ageism-in-tech/bls-analysis")
+if (file.exists("../.Renviron")) readRenviron("../.Renviron")
+root <- Sys.getenv("PROJECT_ROOT")
+if (root == "") stop("Set PROJECT_ROOT in repo-root .Renviron (see .Renviron.example).", call. = FALSE)
+setwd(file.path(root, "bls-analysis"))
 
 library(dplyr)
 library(tidyr)
@@ -20,7 +23,7 @@ library(ggplot2)
 # -----------------------------------------------------------------------------
 
 # bring in csv
-table27 <- read.csv("/Users/jocelyn/Documents/Pratt/Projects/ageism-in-tech/bls-cleaned/table27_all_years.csv")
+table27 <- read.csv(file.path(root, "bls-cleaned/table27_all_years.csv"))
 glimpse(table27)
 
 # filter variables for permanent job loss (probably the closest thing to layoffs)
@@ -110,7 +113,7 @@ ggplot(perm_pct, aes(x = factor(year), y = perm_losers, fill = demographic)) +
 # -----------------------------------------------------------------------------
 
 # bring in csv
-table9 <- read.csv("/Users/jocelyn/Documents/Pratt/Projects/ageism-in-tech/bls-cleaned/table09_all_years.csv")
+table9 <- read.csv(file.path(root, "bls-cleaned/table09_all_years.csv"))
 glimpse(table9)
 
 # filter to computer and mathematical occupations only (occ_level == 2)
@@ -154,7 +157,7 @@ ggplot(computer_jobs_long, aes(x = year, y = employed, color = demographic, grou
 # ------ table 31 - duration of unemployment
 # -----------------------------------------------------------------------------
 
-table31 <- read.csv("/Users/jocelyn/Documents/Pratt/Projects/ageism-in-tech/bls-cleaned/table31_all_years.csv")
+table31 <- read.csv(file.path(root, "bls-cleaned/table31_all_years.csv"))
 glimpse(table31)
 
 # ------ plot durations of unemployment ------

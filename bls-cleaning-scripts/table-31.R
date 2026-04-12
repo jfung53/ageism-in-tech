@@ -42,8 +42,11 @@ library(stringr)
 
 # ------ config ---------------------------------------------------------------
 
-input_dir  <- "/Users/jocelyn/Documents/Pratt/Projects/ageism-in-tech/bls-data/31-unemployed-by-duration"
-output_dir <- "/Users/jocelyn/Documents/Pratt/Projects/ageism-in-tech/bls-cleaned"
+if (file.exists("../.Renviron")) readRenviron("../.Renviron")
+root <- Sys.getenv("PROJECT_ROOT")
+if (root == "") stop("Set PROJECT_ROOT in repo-root .Renviron (see .Renviron.example).", call. = FALSE)
+input_dir  <- file.path(root, "bls-data/31-unemployed-by-duration")
+output_dir <- file.path(root, "bls-cleaned")
 
 years <- c(2019, 2020, 2021, 2022, 2023, 2024, 2025)
 

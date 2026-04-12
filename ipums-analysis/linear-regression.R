@@ -5,16 +5,20 @@ library(dplyr)    # for data management
 library(car)      # for evaluating model assumptions
 library(olsrr)    # for stepwise modeling
 
-setwd("/Users/jocelyn/Documents/Pratt/640-data-analysis")
+# set working directory
+if (file.exists("../.Renviron")) readRenviron("../.Renviron")
+root <- Sys.getenv("IPUMS_DATA_ROOT")
+if (root == "") stop("Set IPUMS_DATA_ROOT in repo-root .Renviron (see .Renviron.example).", call. = FALSE)
+setwd(normalizePath(root, winslash = "/", mustWork = TRUE))
+
+# IPUMS API key
+ipums_key <- Sys.getenv("IPUMS_API_KEY")
+set_ipums_api_key(ipums_key)
 
 # Get data from IPUMS -----------------------------------------------------
 
-## set API key
-my_key <- "59cba10d8a5da536fc06b59d9fec3f3c0be84f789eb9b6c0a8c2e8b6"
-set_ipums_api_key(my_key)
 
-
-## see list of data - cps instead of acs
+## see list of data - i'm using CPS, not ACS
 sample_list <- get_sample_info("cps")
 
 ## define an extract - 2025 annual samples
@@ -75,7 +79,7 @@ table(data$WHYUNEMP) # 1,064,497 records are NIU, ~22k known
 variables_model <- c("AGE", "SEX", "RACE", "HISPAN", 
                      "EDUC", "OCC", "IND", "DURUNEMP", "WHYUNEMP")
 
-# OCC code → occ_category crosswalk
+# OCC code → occ_category crosswalk, created with help from Claude
 # covers both 2010 SOC (IPUMS 2011-2019) and 2018 SOC (IPUMS 2020+)
 # matches occ_category definitions from BLS analysis (table-11b.R)
 # creates buckets for science and tech occupations: IT, engineering, life sciences, and healthcare

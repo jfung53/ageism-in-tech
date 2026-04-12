@@ -1,0 +1,13 @@
+# Copy this file to `.Renviron` in the repo root and fill in your values.
+# `.Renviron` is gitignored — never commit it.
+
+# Absolute path to this repository (used by bls-cleaning-scripts, bls-analysis, etc.).
+PROJECT_ROOT=/absolute/path/to/ageism-in-tech
+
+IPUMS_API_KEY=your_ipums_api_key_here
+
+# Working directory for IPUMS `download_extract` output (quote if the path contains spaces).
+IPUMS_DATA_ROOT=/absolute/path/to/your/ipums/download/folder
+
+# Parent of `W157_Oct24/` (Pew ATP W157 SPSS). Quote the value if the path contains spaces.
+PEW_DATA_ROOT=/absolute/path/to/parent/of/W157_Oct24

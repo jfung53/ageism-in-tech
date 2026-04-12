@@ -1,9 +1,13 @@
 
 # Lab 6: generalized linear models ----------------------------------------
 
-setwd("/Users/jocelyn/Documents/Pratt/640-data-analysis/lab 6")
+# set working directory
+if (file.exists("../.Renviron")) readRenviron("../.Renviron")
+root <- Sys.getenv("PEW_DATA_ROOT")
+if (root == "") stop("Set PEW_DATA_ROOT in repo-root .Renviron (see .Renviron.example).", call. = FALSE)
+setwd(normalizePath(root, winslash = "/", mustWork = TRUE))
 
-# first, install library from GitHub
+# install libraries
 library(devtools)
 install_github(repo = "https://github.com/pewresearch/pewmethods")
 
@@ -13,11 +17,11 @@ library(dplyr)      # for data management
 library(survey)     # for weighting survey data
 library(broom)      # for incident rate ratios
 library(ggplot2)    # for data visualization
-library(tidyverse)
+library(tidyverse)  # for tidying
 
 
-# Create an account at Pew Research. Download data, then load.
-# I chose the American Trends Panel Wave 157 2024 Survey of Workers
+# need to create an account at pew research and download the data
+# i'm using the American Trends Panel Wave 157 2024 Survey of Workers
 # https://www.pewresearch.org/dataset/american-trends-panel-wave-157/
 
 ## load data
@@ -65,7 +69,7 @@ data <- apply_labels(data, variable_labels)
 ## test just to see
 ls(data)
 
-# weighted frequency tables
+### weighted frequency tables
 
 # age categories
 get_totals(var = "F_AGECAT", df = data, wt = "WEIGHT_W157")
@@ -93,7 +97,7 @@ get_totals(var = "F_GENDER", df = data, wt = "WEIGHT_W157")
 # I'll test potential predictors of perceived job search difficulty (FINDJOB_W157)
 # using logistic regression.
 
-# survey question: if you were to look for a new job today, how easy/difficult do you think
+# pew survey question: if you were to look for a new job today, how easy/difficult do you think
 # it would be for you to get the kind of job you want?
 
 
